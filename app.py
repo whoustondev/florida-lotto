@@ -52,13 +52,13 @@ def index():
 def get_numbers():
     # Get the number index from the form
     position = int(request.form.get('position')) - 1  # Convert to zero-based index
-
     # Extract the corresponding number from all datasets
     if position < 0 or position > 5:
         return "Invalid number, please select a number between 1 and 6."
-    
-    selected_numbers = [numbers[position] for numbers in winning_numbers]
-
+    selected_numbers = []
+    for page in winning_numbers:
+        for number in page:
+            selected_numbers.append(number[1+position])
     return render_template('index.html', numbers=selected_numbers, position=position + 1)
 
 if __name__ == '__main__':
