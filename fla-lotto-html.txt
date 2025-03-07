@@ -1,0 +1,3542 @@
+['__attrs__', '__bool__', '__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__enter__', '__eq__', '__exit__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__iter__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__nonzero__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__setstate__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', '_content', '_content_consumed', '_next', 'apparent_encoding', 'close', 'connection', 'content', 'cookies', 'elapsed', 'encoding', 'headers', 'history', 'is_permanent_redirect', 'is_redirect', 'iter_content', 'iter_lines', 'json', 'links', 'next', 'ok', 'raise_for_status', 'raw', 'reason', 'request', 'status_code', 'text', 'url']
+
+<!DOCTYPE HTML>
+<html lang="en-US">
+    <head>
+<meta charset="UTF-8"/>
+<title>Florida Lotto</title>
+
+
+<meta name="template" content="page-headerless"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover"/>
+
+
+
+
+<script defer="defer" type="text/javascript" src="/.rum/@adobe/helix-rum-js@%5E2/dist/rum-standalone.js"></script>
+<link rel="canonical" href="https://floridalottery.com/games/draw-games/florida-lotto"/>
+
+
+
+
+<meta name="format-detection" content="telephone=no"/>
+
+
+<link rel="preconnect" href="https://use.typekit.net" crossorigin/>
+<link rel="preload" as="style" href="https://use.typekit.net/ckl8dwr.css"/>
+<link rel="stylesheet" href="https://use.typekit.net/ckl8dwr.css" media="print" onload="this.media='all'"/>
+<noscript><link rel="stylesheet" href="https://use.typekit.net/ckl8dwr.css"/></noscript>
+
+
+
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/flalottery-web/clientlibs/clientlib-base.lc-c18e4f730c2c2d86ab35f5476e68c173-lc.min.css" type="text/css">
+
+
+
+
+
+
+
+<style>[v-cloak]{display:none;}</style>
+
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TGXZXVKQ');</script>
+
+
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '679268802253162');
+    fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=679268802253162&ev=PageView&noscript=1"/></noscript>
+<!-- End Meta Pixel Code -->
+
+
+    
+    
+
+    
+
+
+    
+         <link rel="stylesheet" href="/etc.clientlibs/flalottery-web/clientlibs/clientlib-site.lc-cbfe651dcd94d8496f66e5d6f1aeecd5-lc.min.css" type="text/css">
+<script defer src="/etc.clientlibs/core/wcm/components/commons/site/clientlibs/container.lc-0a6aff292f5cc42142779cde92054524-lc.min.js"></script>
+<script defer src="/etc.clientlibs/flalottery-web/clientlibs/clientlib-site.lc-7802e38d280608afc8fbcbf848fffddf-lc.min.js"></script>
+
+    
+
+    
+    
+
+
+
+    
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/etc.clientlibs/flalottery-web/clientlibs/clientlib-site/resources/img/favicons/apple-touch-icon.png"/>
+    <link rel="icon" type="image/png" sizes="32x32" href="/etc.clientlibs/flalottery-web/clientlibs/clientlib-site/resources/img/favicons/favicon-32x32.png"/>
+    <link rel="icon" type="image/png" sizes="16x16" href="/etc.clientlibs/flalottery-web/clientlibs/clientlib-site/resources/img/favicons/favicon-16x16.png"/>
+    <link rel="manifest" href="/etc.clientlibs/flalottery-web/clientlibs/clientlib-site/resources/manifest.json"/>
+    <link rel="mask-icon" href="/etc.clientlibs/flalottery-web/clientlibs/clientlib-site/resources/img/favicons/safari-pinned-tab.svg" color="#5bbad5"/>
+    <meta name="msapplication-TileColor" content="#005c59"/>
+    <meta name="theme-color" content="#ffffff"/>
+
+
+</head>
+    <body class="page basicpage" id="page-45d62f4473">
+        
+        
+        
+            
+
+<div class="cmp-page__skiptomaincontent">
+    <a class="cmp-page__skiptomaincontent-link" href="#content">Skip to main content</a>
+</div>
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/core/wcm/components/page/v2/page/clientlibs/site/skiptomaincontent.lc-696ce9a06faa733b225ffb8c05f16db9-lc.min.css" type="text/css">
+
+
+
+
+            
+
+
+
+            
+<div class="root container responsivegrid">
+
+    
+    <div id="container-03754afb0d" class="cmp-container cmp-container--responsive-grid spacing-t-none spacing-b-none">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <header class="experiencefragment sticky-header aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-14aa76bb76" class="cmp-experiencefragment cmp-experiencefragment--header">
+
+
+    
+    
+    
+    <div id="container-34fbe55c54" class="cmp-container cmp-container--simple spacing-t-none spacing-b-none">
+        
+        <div class="cmp-container__items">
+            <div class="sitealert"><div id="sitealert-82d9ad1dfc" class="cmp-sitealert" data-vue>
+  <cmp-sitealert id="sitealert-82d9ad1dfc-vc" component-id="sitealert-82d9ad1dfc" api-url="/content/flalottery-web/us/en/games/draw-games/florida-lotto.alert.json"></cmp-sitealert>
+</div>
+
+    
+
+
+</div>
+<div class="container responsivegrid container--w-full container--top-bar">
+
+    
+    
+    
+    <div id="container-59b9649497" class="cmp-container cmp-container--simple spacing-t-none spacing-b-none">
+        
+        <div class="cmp-container__items">
+            <div class="languageswitcher">
+
+    
+
+</div>
+<div class="button button--inline button--inverse-text button--inverse-focus">
+<a id="button-1522204623" class="cmp-button spacing-t-none spacing-b-none" href="/promotions">
+    
+    
+
+    <span class="cmp-button__text">Promotions</span>
+</a>
+</div>
+<div class="button button--inline button--inverse-text button--inverse-focus">
+<a id="button-1ef6143ba5" class="cmp-button spacing-t-none spacing-b-none" href="/business">
+    
+    
+
+    <span class="cmp-button__text">Do Business With Us</span>
+</a>
+</div>
+<div class="missingpersonsalert button--inline button--inverse-text button--inverse-focus"><div id="missingpersonsalert-3986fd37bd" class="cmp-missingpersonsalert" data-vue>
+  <cmp-missingpersonsalert id="missingpersonsalert-3986fd37bd-vc" component-id="missingpersonsalert-3986fd37bd" api-url="/content/flalottery-web/us/en/games/draw-games/florida-lotto.alert.json"></cmp-missingpersonsalert>
+</div>
+
+    
+
+
+</div>
+<div class="popup experiencefragment popup--align-top button--inline"><div id="popup-96ae785544" class="cmp-popup cmp-popup--search-popup spacing-t-none spacing-b-none" data-cmp-is="popup">
+    <button type="button" class="cmp-button" data-a11y-dialog-show="popup-96ae785544-dialog">
+        
+    <span class="cmp-button__icon fas fa-search"></span>
+
+        <span class="cmp-button__text">Search</span>
+    </button>
+
+    <div id="popup-96ae785544-dialog" class="dialog-container" aria-labelledby="popup-96ae785544-dialog-title" aria-hidden="true">
+        <div class="dialog-overlay" data-a11y-dialog-hide></div>
+
+        <div class="dialog-content-wrapper" role="document">
+            <div class="dialog-content">
+                <div class="dialog-header">
+                    <h1 class="dialog-title" id="popup-96ae785544-dialog-title">
+                        <span>Search Our Site</span>
+                    </h1>
+
+                    <button class="dialog-close" type="button" data-a11y-dialog-hide aria-label="Close popup"></button>
+                </div>
+                <div class="dialog-body" tabindex="0" role="region" aria-label="Popup content">
+                    <div>
+
+
+    
+    <div id="container-60da3c28a9" class="cmp-container cmp-container--responsive-grid spacing-t-none spacing-b-none">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="tabs panelcontainer aem-GridColumn aem-GridColumn--default--12">
+<div id="tabs-c9bf5cf122" class="cmp-tabs spacing-t-none spacing-b-none" data-cmp-is="tabs" data-placeholder-text="false">
+    <div class="cmp-tabs__tablist-wrapper relative px-10">
+        <button class="left-0 cmp-tabs__nav-btn" aria-hidden="true" tabindex="-1" data-cmp-hook-tabs="nav" data-dir="-1">
+            <span class="fas fa-chevron-left w-4 h-4" title="Previous"></span>
+        </button>
+
+        <div class="relative overflow-x-hidden">
+            <ol id="tabs-c9bf5cf122-tablist" role="tablist" class="cmp-tabs__tablist" aria-multiselectable="false" data-cmp-hook-tabs="tablist">
+                
+                <li role="tab" id="tabs-c9bf5cf122-item-071dfa1252-tab" class="cmp-tabs__tab cmp-tabs__tab--active" aria-controls="tabs-c9bf5cf122-item-071dfa1252-tabpanel" tabindex="0" data-cmp-hook-tabs="tab">Pages</li>
+            
+                
+                <li role="tab" id="tabs-c9bf5cf122-item-52082e3f8b-tab" class="cmp-tabs__tab" aria-controls="tabs-c9bf5cf122-item-52082e3f8b-tabpanel" tabindex="-1" data-cmp-hook-tabs="tab">Winning Numbers</li>
+            </ol>
+        </div>
+
+        <button class="right-0 cmp-tabs__nav-btn" aria-hidden="true" tabindex="-1" data-cmp-hook-tabs="nav" data-dir="1">
+            <span class="fas fa-chevron-right w-4 h-4" title="Next"></span>
+        </button>
+    </div>
+
+    <div id="tabs-c9bf5cf122-item-071dfa1252-tabpanel" role="tabpanel" aria-labelledby="tabs-c9bf5cf122-item-071dfa1252-tab" tabindex="0" class="cmp-tabs__tabpanel cmp-tabs__tabpanel--active" data-cmp-hook-tabs="tabpanel"><div class="container responsivegrid">
+
+    
+    
+    
+    <div id="container-ba74d52486" class="cmp-container cmp-container--simple spacing-t-none spacing-b-none">
+        
+        <div class="cmp-container__items">
+            <div class="search"><div id="search-7e33983cbf" class="cmp-search spacing-t-tight spacing-b-none" data-cmp-is="search" data-vue>
+  <cmp-sitesearch id="search-7e33983cbf-vc" component-id="search-7e33983cbf" action="/content/flalottery-web/us/en/games/draw-games/florida-lotto.search-results.json" :per-page="5">
+    <div>
+      <h2 class="mb-4 font-bold text-green-800 uppercase font-condensed">
+        Popular Pages
+      </h2>
+
+      <ul>
+        <li class="my-2">
+  <a class="cmp-search-item__link focus-pink" href="/games/draw-games">
+    <span class="cmp-search-item__title">Draw Games</span>
+    <small class="cmp-search-item__url" aria-hidden="true">
+      <span class="cmp-search-item__icon fas fa-file-alt"></span>
+      /games/draw-games
+    </small>
+  </a>
+</li>
+      
+        <li class="my-2">
+  <a class="cmp-search-item__link focus-pink" href="/games/winning-numbers">
+    <span class="cmp-search-item__title">Winning Numbers</span>
+    <small class="cmp-search-item__url" aria-hidden="true">
+      <span class="cmp-search-item__icon fas fa-file-alt"></span>
+      /games/winning-numbers
+    </small>
+  </a>
+</li>
+      
+        <li class="my-2">
+  <a class="cmp-search-item__link focus-pink" href="/promotions">
+    <span class="cmp-search-item__title">Promotions</span>
+    <small class="cmp-search-item__url" aria-hidden="true">
+      <span class="cmp-search-item__icon fas fa-file-alt"></span>
+      /promotions
+    </small>
+  </a>
+</li>
+      
+        <li class="my-2">
+  <a class="cmp-search-item__link focus-pink" href="/help">
+    <span class="cmp-search-item__title">Help Center</span>
+    <small class="cmp-search-item__url" aria-hidden="true">
+      <span class="cmp-search-item__icon fas fa-file-alt"></span>
+      /help
+    </small>
+  </a>
+</li>
+      
+        <li class="my-2">
+  <a class="cmp-search-item__link focus-pink" href="/where-to-play">
+    <span class="cmp-search-item__title">Where to Play</span>
+    <small class="cmp-search-item__url" aria-hidden="true">
+      <span class="cmp-search-item__icon fas fa-file-alt"></span>
+      /where-to-play
+    </small>
+  </a>
+</li>
+      </ul>
+    </div>
+  </cmp-sitesearch>
+</div></div>
+
+        	
+        </div>
+    </div>
+
+</div>
+</div>
+<div id="tabs-c9bf5cf122-item-52082e3f8b-tabpanel" role="tabpanel" aria-labelledby="tabs-c9bf5cf122-item-52082e3f8b-tab" tabindex="0" class="cmp-tabs__tabpanel" data-cmp-hook-tabs="tabpanel"><div class="container responsivegrid">
+
+    
+    
+    
+    <div id="container-f403f0c349" class="cmp-container cmp-container--simple spacing-t-none spacing-b-none">
+        
+        <div class="cmp-container__items">
+            <div class="numbersearch experiencefragment numbersearch--in-popup"><div id="numbersearch-eb8456133d" class="cmp-numbersearch cmp-numbersearch-- spacing-t-none spacing-b-none" data-vue>
+  <cmp-numbersearch id="numbersearch-eb8456133d-vc" component-id="numbersearch-eb8456133d" api-url="https://apim-website-prod-eastus.azure-api.net" game-api-url="/content/flalottery-web/us/en/games/draw-games/florida-lotto.draw-games.json" game-id="lotto" :is-game-select-disabled="false" :use-mobile-popup="false" action="/games/winning-numbers">
+    
+  </cmp-numbersearch>
+</div>
+</div>
+<div class="promocta promocta--media-w-auto promocta--bg-foliage promocta--slim-wide"><article class="cmp-promocta cmp-promocta--slim spacing-t-large spacing-b-large" style="--image-path:url(\2f content\2f dam\2f flalottery-web\2fimages\2fheader-menu-link-graphics\2fplayers-guide\2f discretionary-income-tiny.png)">
+    <div class="cmp-promocta__inner">
+        
+        <div class="cmp-promocta__media">
+            
+            
+
+            
+            <picture class="cmp-promocta__image" aria-hidden="true">
+                
+                <img class="lazyload" alt="" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/content/dam/flalottery-web/images/header-menu-link-graphics/players-guide/discretionary-income-tiny.png"/>
+            </picture>
+
+            
+            
+        </div>
+
+        
+        <div class="cmp-promocta__copy text--inverse">
+            
+            <h2 class="cmp-promocta__title">
+                Play Responsibly
+            </h2>
+
+            
+            <div class="cmp-promocta__content">
+                 <p>Playing responsibly is all about playing within your means. </p>
+
+            </div>
+
+            
+            
+    <ul class="cmp-promocta__actions">
+        <li class="cmp-promocta__action">
+            <a class="cmp-promocta__action-link grower" id="promocta-363bbf30f0-cta-2e086c5847" href="/play-responsibly">
+                Learn More <span class="sr-only">about playing responsibly</span>
+            </a>
+        </li>
+    </ul>
+
+
+            
+            
+
+            
+            
+        </div>
+    </div>
+</article>
+
+    
+</div>
+
+        	
+        </div>
+    </div>
+
+</div>
+</div>
+
+
+    
+</div>
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+</div>
+
+        	
+        </div>
+    </div>
+
+</div>
+<div class="container responsivegrid container--w-full container--main-bar">
+
+    
+    
+    
+    <div id="container-e3103c6752" class="cmp-container cmp-container--simple spacing-t-none spacing-b-none">
+        
+        <div class="cmp-container__items">
+            <div class="image">
+<div data-cmp-is="image" data-cmp-lazy data-cmp-lazythreshold="0" data-cmp-src="/content/experience-fragments/flalottery-web/us/en/site/header/master/_jcr_content/root/container_2140547420/image.coreimg.85{.width}.jpeg/1619198060878/florida-lottery.jpeg" data-cmp-widths="320,480,600,800,1024,1200,1600" data-asset="/content/dam/flalottery-web/images/brand/florida-lottery.jpg" data-title="Florida Lottery" id="image-125c8f379e" class="cmp-image spacing-t-none spacing-b-none" itemscope itemtype="http://schema.org/ImageObject">
+    <a class="cmp-image__link" href="/" data-cmp-hook-image="link">
+        <noscript data-cmp-hook-image="noscript">
+            
+            <img src="/content/experience-fragments/flalottery-web/us/en/site/header/master/_jcr_content/root/container_2140547420/image.coreimg.jpeg/1619198060878/florida-lottery.jpeg" class="cmp-image__image" itemprop="contentUrl" data-cmp-hook-image="image" alt="Florida Lottery"/>
+            
+        </noscript>
+    </a>
+    
+    
+</div>
+
+    
+</div>
+<div class="navigation navigation--main-menu">
+<nav id="navigation-7f36c762dd" class="cmp-navigation spacing-t-none spacing-b-none" itemscope itemtype="http://schema.org/SiteNavigationElement" aria-label="Main">
+    <ul class="cmp-navigation__group">
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a href="/games" class="cmp-navigation__item-link">Games</a>
+
+        
+    <ul class="cmp-navigation__group">
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-1">
+        
+    <a href="/games/draw-games" class="cmp-navigation__item-link">Draw Games</a>
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-1">
+        
+    <a href="/games/scratch-offs" class="cmp-navigation__item-link">Scratch-Offs</a>
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-1">
+        
+    <a href="/games/winning-numbers" class="cmp-navigation__item-link">Winning Numbers</a>
+
+        
+    </li>
+
+    </ul>
+
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a href="/winning" class="cmp-navigation__item-link">Winning</a>
+
+        
+    <ul class="cmp-navigation__group">
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-1">
+        
+    <a href="/winning/guide" class="cmp-navigation__item-link">Winner’s Guide</a>
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-1">
+        
+    <a href="/winning/winner-resources" class="cmp-navigation__item-link">Forms &amp; Contacts</a>
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-1">
+        
+    <a href="/winning/recent-winners" class="cmp-navigation__item-link">Recent Winners</a>
+
+        
+    </li>
+
+    </ul>
+
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a href="/education" class="cmp-navigation__item-link">Education</a>
+
+        
+    <ul class="cmp-navigation__group">
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-1">
+        
+    <a href="/education/supporting-education" class="cmp-navigation__item-link">Supporting Education</a>
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-1">
+        
+    <a href="/education/bright-futures" class="cmp-navigation__item-link">Bright Futures</a>
+
+        
+    </li>
+
+    </ul>
+
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a href="/play-responsibly" class="cmp-navigation__item-link">Play Responsibly</a>
+
+        
+    </li>
+
+    </ul>
+</nav>
+
+    
+
+</div>
+<div class="container responsivegrid container--spaced container--inline">
+
+    
+    
+    
+    <div id="container-3f38f2466a" class="cmp-container cmp-container--simple spacing-t-none spacing-b-none">
+        
+        <div class="cmp-container__items">
+            
+        	
+        </div>
+    </div>
+
+</div>
+<div class="button">
+<a id="button-76f40314c6" class="cmp-button spacing-t-none spacing-b-none" href="/where-to-play">
+    
+    
+
+    <span class="cmp-button__text">Where to Play</span>
+</a>
+</div>
+<div class="button button--pink">
+<a id="button-5134f4b829" class="cmp-button spacing-t-none spacing-b-none" href="/games/winning-numbers">
+    
+    
+
+    <span class="cmp-button__text">Winning Numbers</span>
+</a>
+</div>
+<div class="popup experiencefragment popup--align-top popup--fullscreen button--search"><div id="popup-bd836e56f8" class="cmp-popup cmp-popup--search-popup spacing-t-none spacing-b-none" data-cmp-is="popup">
+    <button type="button" class="cmp-button" data-a11y-dialog-show="popup-bd836e56f8-dialog">
+        
+    <span class="cmp-button__icon fas fa-search"></span>
+
+        <span class="cmp-button__text">Search</span>
+    </button>
+
+    <div id="popup-bd836e56f8-dialog" class="dialog-container" aria-labelledby="popup-bd836e56f8-dialog-title" aria-hidden="true">
+        <div class="dialog-overlay" data-a11y-dialog-hide></div>
+
+        <div class="dialog-content-wrapper" role="document">
+            <div class="dialog-content">
+                <div class="dialog-header">
+                    <h1 class="dialog-title" id="popup-bd836e56f8-dialog-title">
+                        <span>Search Our Site</span>
+                    </h1>
+
+                    <button class="dialog-close" type="button" data-a11y-dialog-hide aria-label="Close popup"></button>
+                </div>
+                <div class="dialog-body" tabindex="0" role="region" aria-label="Popup content">
+                    <div>
+
+
+    
+    <div id="container-d707a81cfd" class="cmp-container cmp-container--responsive-grid spacing-t-none spacing-b-none">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 aem-Grid--xl--12 ">
+    
+    <div class="tabs panelcontainer aem-GridColumn--offset--xl--0 aem-GridColumn aem-GridColumn--default--newline aem-GridColumn--xl--12 aem-GridColumn--default--12 aem-GridColumn--offset--default--0 aem-GridColumn--xl--none">
+<div id="tabs-f2cfce4ab2" class="cmp-tabs spacing-t-none spacing-b-none" data-cmp-is="tabs" data-placeholder-text="false">
+    <div class="cmp-tabs__tablist-wrapper relative px-10">
+        <button class="left-0 cmp-tabs__nav-btn" aria-hidden="true" tabindex="-1" data-cmp-hook-tabs="nav" data-dir="-1">
+            <span class="fas fa-chevron-left w-4 h-4" title="Previous"></span>
+        </button>
+
+        <div class="relative overflow-x-hidden">
+            <ol id="tabs-f2cfce4ab2-tablist" role="tablist" class="cmp-tabs__tablist" aria-multiselectable="false" data-cmp-hook-tabs="tablist">
+                
+                <li role="tab" id="tabs-f2cfce4ab2-item-691e9bfef0-tab" class="cmp-tabs__tab cmp-tabs__tab--active" aria-controls="tabs-f2cfce4ab2-item-691e9bfef0-tabpanel" tabindex="0" data-cmp-hook-tabs="tab">Pages</li>
+            
+                
+                <li role="tab" id="tabs-f2cfce4ab2-item-1e3e59d7a6-tab" class="cmp-tabs__tab" aria-controls="tabs-f2cfce4ab2-item-1e3e59d7a6-tabpanel" tabindex="-1" data-cmp-hook-tabs="tab">Winning Numbers</li>
+            </ol>
+        </div>
+
+        <button class="right-0 cmp-tabs__nav-btn" aria-hidden="true" tabindex="-1" data-cmp-hook-tabs="nav" data-dir="1">
+            <span class="fas fa-chevron-right w-4 h-4" title="Next"></span>
+        </button>
+    </div>
+
+    <div id="tabs-f2cfce4ab2-item-691e9bfef0-tabpanel" role="tabpanel" aria-labelledby="tabs-f2cfce4ab2-item-691e9bfef0-tab" tabindex="0" class="cmp-tabs__tabpanel cmp-tabs__tabpanel--active" data-cmp-hook-tabs="tabpanel"><div class="container responsivegrid">
+
+    
+    
+    
+    <div id="container-ed78d7641b" class="cmp-container cmp-container--simple spacing-t-none spacing-b-none">
+        
+        <div class="cmp-container__items">
+            <div class="search"><div id="search-3120a258e9" class="cmp-search spacing-t-tight spacing-b-none" data-cmp-is="search" data-vue>
+  <cmp-sitesearch id="search-3120a258e9-vc" component-id="search-3120a258e9" action="/content/flalottery-web/us/en/games/draw-games/florida-lotto.search-results.json" :per-page="5">
+    <div>
+      <h2 class="mb-4 font-bold text-green-800 uppercase font-condensed">
+        Popular Pages
+      </h2>
+
+      <ul>
+        <li class="my-2">
+  <a class="cmp-search-item__link focus-pink" href="/games/draw-games">
+    <span class="cmp-search-item__title">Draw Games</span>
+    <small class="cmp-search-item__url" aria-hidden="true">
+      <span class="cmp-search-item__icon fas fa-file-alt"></span>
+      /games/draw-games
+    </small>
+  </a>
+</li>
+      
+        <li class="my-2">
+  <a class="cmp-search-item__link focus-pink" href="/games/winning-numbers">
+    <span class="cmp-search-item__title">Winning Numbers</span>
+    <small class="cmp-search-item__url" aria-hidden="true">
+      <span class="cmp-search-item__icon fas fa-file-alt"></span>
+      /games/winning-numbers
+    </small>
+  </a>
+</li>
+      
+        <li class="my-2">
+  <a class="cmp-search-item__link focus-pink" href="/promotions">
+    <span class="cmp-search-item__title">Promotions</span>
+    <small class="cmp-search-item__url" aria-hidden="true">
+      <span class="cmp-search-item__icon fas fa-file-alt"></span>
+      /promotions
+    </small>
+  </a>
+</li>
+      
+        <li class="my-2">
+  <a class="cmp-search-item__link focus-pink" href="/help">
+    <span class="cmp-search-item__title">Help Center</span>
+    <small class="cmp-search-item__url" aria-hidden="true">
+      <span class="cmp-search-item__icon fas fa-file-alt"></span>
+      /help
+    </small>
+  </a>
+</li>
+      
+        <li class="my-2">
+  <a class="cmp-search-item__link focus-pink" href="/where-to-play">
+    <span class="cmp-search-item__title">Where to Play</span>
+    <small class="cmp-search-item__url" aria-hidden="true">
+      <span class="cmp-search-item__icon fas fa-file-alt"></span>
+      /where-to-play
+    </small>
+  </a>
+</li>
+      </ul>
+    </div>
+  </cmp-sitesearch>
+</div></div>
+
+        	
+        </div>
+    </div>
+
+</div>
+</div>
+<div id="tabs-f2cfce4ab2-item-1e3e59d7a6-tabpanel" role="tabpanel" aria-labelledby="tabs-f2cfce4ab2-item-1e3e59d7a6-tab" tabindex="0" class="cmp-tabs__tabpanel" data-cmp-hook-tabs="tabpanel"><div class="container responsivegrid">
+
+    
+    
+    
+    <div id="container-d3e8ee3b3f" class="cmp-container cmp-container--simple spacing-t-none spacing-b-none">
+        
+        <div class="cmp-container__items">
+            <div class="numbersearch experiencefragment numbersearch--in-popup"><div id="numbersearch-438396a5d0" class="cmp-numbersearch cmp-numbersearch-- spacing-t-none spacing-b-none" data-vue>
+  <cmp-numbersearch id="numbersearch-438396a5d0-vc" component-id="numbersearch-438396a5d0" api-url="https://apim-website-prod-eastus.azure-api.net" game-api-url="/content/flalottery-web/us/en/games/draw-games/florida-lotto.draw-games.json" game-id="lotto" :is-game-select-disabled="false" :use-mobile-popup="false" action="/games/winning-numbers">
+    
+  </cmp-numbersearch>
+</div>
+</div>
+
+        	
+        </div>
+    </div>
+
+</div>
+</div>
+
+
+    
+</div>
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+</div>
+<div class="popup experiencefragment popup--offcanvas button--menu"><div id="popup-677ced7b20" class="cmp-popup cmp-popup--mobile-menu-popup spacing-t-none spacing-b-none" data-cmp-is="popup">
+    <button type="button" class="cmp-button" data-a11y-dialog-show="popup-677ced7b20-dialog">
+        
+    
+
+        <span class="cmp-button__text">Open Menu</span>
+    </button>
+
+    <div id="popup-677ced7b20-dialog" class="dialog-container" aria-labelledby="popup-677ced7b20-dialog-title" aria-hidden="true">
+        <div class="dialog-overlay" data-a11y-dialog-hide></div>
+
+        <div class="dialog-content-wrapper" role="document">
+            <div class="dialog-content">
+                <div class="dialog-header">
+                    <h1 class="dialog-title" id="popup-677ced7b20-dialog-title">
+                        <span class="sr-only">Main Menu</span>
+                    </h1>
+
+                    <button class="dialog-close" type="button" data-a11y-dialog-hide aria-label="Close popup"></button>
+                </div>
+                <div class="dialog-body" tabindex="0" role="region" aria-label="Popup content">
+                    <div>
+
+
+    
+    <div id="container-dd31b0a4cf" class="cmp-container cmp-container--responsive-grid spacing-t-none spacing-b-none">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="missingpersonsalert aem-GridColumn aem-GridColumn--default--12"><div id="missingpersonsalert-d166258220" class="cmp-missingpersonsalert" data-vue>
+  <cmp-missingpersonsalert id="missingpersonsalert-d166258220-vc" component-id="missingpersonsalert-d166258220" api-url="/content/flalottery-web/us/en/games/draw-games/florida-lotto.alert.json"></cmp-missingpersonsalert>
+</div>
+
+    
+
+
+</div>
+<div class="navigation navigation--main-menu-vertical aem-GridColumn aem-GridColumn--default--12">
+<nav id="navigation-2126c34ae2" class="cmp-navigation spacing-t-none spacing-b-none" itemscope itemtype="http://schema.org/SiteNavigationElement" aria-label="Main">
+    <ul class="cmp-navigation__group">
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a href="/games" class="cmp-navigation__item-link">Games</a>
+
+        
+    <ul class="cmp-navigation__group">
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-1">
+        
+    <a href="/games/draw-games" class="cmp-navigation__item-link">Draw Games</a>
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-1">
+        
+    <a href="/games/scratch-offs" class="cmp-navigation__item-link">Scratch-Offs</a>
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-1">
+        
+    <a href="/games/winning-numbers" class="cmp-navigation__item-link">Winning Numbers</a>
+
+        
+    </li>
+
+    </ul>
+
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a href="/winning" class="cmp-navigation__item-link">Winning</a>
+
+        
+    <ul class="cmp-navigation__group">
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-1">
+        
+    <a href="/winning/guide" class="cmp-navigation__item-link">Winner’s Guide</a>
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-1">
+        
+    <a href="/winning/winner-resources" class="cmp-navigation__item-link">Forms &amp; Contacts</a>
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-1">
+        
+    <a href="/winning/recent-winners" class="cmp-navigation__item-link">Recent Winners</a>
+
+        
+    </li>
+
+    </ul>
+
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a href="/education" class="cmp-navigation__item-link">Education</a>
+
+        
+    <ul class="cmp-navigation__group">
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-1">
+        
+    <a href="/education/supporting-education" class="cmp-navigation__item-link">Supporting Education</a>
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-1">
+        
+    <a href="/education/bright-futures" class="cmp-navigation__item-link">Bright Futures</a>
+
+        
+    </li>
+
+    </ul>
+
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a href="/play-responsibly" class="cmp-navigation__item-link">Play Responsibly</a>
+
+        
+    </li>
+
+    </ul>
+</nav>
+
+    
+
+</div>
+<div class="container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    
+    <div id="container-2918b82684" class="cmp-container cmp-container--simple spacing-t-tight spacing-b-none">
+        
+        <div class="cmp-container__items">
+            <div class="languageswitcher">
+
+    
+
+</div>
+<div class="button button--inline">
+<a id="button-214b1c5e28" class="cmp-button spacing-t-none spacing-b-none" href="/promotions">
+    
+    
+
+    <span class="cmp-button__text">Promotions</span>
+</a>
+</div>
+<div class="button button--inline">
+<a id="button-2ee3f59d06" class="cmp-button spacing-t-none spacing-b-none" href="/business">
+    
+    
+
+    <span class="cmp-button__text">Do Business With Us</span>
+</a>
+</div>
+
+        	
+        </div>
+    </div>
+
+</div>
+<div class="button button--inverse-text button--inverse-focus button--w-full aem-GridColumn aem-GridColumn--default--12">
+<a id="button-e9685cf934" class="cmp-button spacing-t-tight spacing-b-none" href="/where-to-play">
+    
+    
+
+    <span class="cmp-button__text">Where to Play</span>
+</a>
+</div>
+<div class="button button--pink button--inverse-focus button--w-full aem-GridColumn aem-GridColumn--default--12">
+<a id="button-465ba67406" class="cmp-button spacing-t-tight spacing-b-none" href="/games/winning-numbers">
+    
+    
+
+    <span class="cmp-button__text">Winning Numbers</span>
+</a>
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+</div>
+
+        	
+        </div>
+    </div>
+
+</div>
+
+        	
+        </div>
+    </div>
+
+</div>
+
+    
+</header>
+<main class="container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+    
+    <div id="content" class="cmp-container cmp-container--responsive-grid spacing-t-none spacing-b-none">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="breadcrumb aem-GridColumn aem-GridColumn--default--12">
+<nav id="breadcrumb-7d19862922" class="cmp-breadcrumb container" aria-label="Breadcrumb">
+    <ol class="cmp-breadcrumb__list" itemscope itemtype="http://schema.org/BreadcrumbList">
+        <li class="cmp-breadcrumb__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+            <a class="cmp-breadcrumb__item-link" itemprop="item" href="/">
+                <span itemprop="name">Florida Lottery</span>
+            </a>
+            <meta itemprop="position" content="1"/>
+        </li>
+    
+        <li class="cmp-breadcrumb__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+            <a class="cmp-breadcrumb__item-link" itemprop="item" href="/games">
+                <span itemprop="name">Games</span>
+            </a>
+            <meta itemprop="position" content="2"/>
+        </li>
+    
+        <li class="cmp-breadcrumb__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+            <a class="cmp-breadcrumb__item-link" itemprop="item" href="/games/draw-games">
+                <span itemprop="name">Draw Games</span>
+            </a>
+            <meta itemprop="position" content="3"/>
+        </li>
+    
+        <li class="cmp-breadcrumb__item cmp-breadcrumb__item--active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+            
+                <span itemprop="name">Florida Lotto</span>
+            
+            <meta itemprop="position" content="4"/>
+        </li>
+    </ol>
+</nav>
+
+    
+
+</div>
+<div class="container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+    
+    <div id="container-cdb282b6a5" class="cmp-container cmp-container--responsive-grid spacing-t-none spacing-b-none">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="drawgameheader aem-GridColumn aem-GridColumn--default--12"><div id="drawgameheader-1ffbdb64e0" class="cmp-drawgameheader " data-vue>
+	<h1 class="sr-only">Florida Lotto</h1>
+	<cmp-drawgameheader id="drawgameheader-1ffbdb64e0-vc" component-id="drawgameheader-1ffbdb64e0" api-url="https://apim-website-prod-eastus.azure-api.net" search-url="/games/winning-numbers" locator-url="/where-to-play" game-json="{&#34;page&#34;:&#34;/games/draw-games/florida-lotto&#34;,&#34;logo&#34;:&#34;/content/dam/flalottery-web/images/games/draw-games/lotto-logo.png&#34;,&#34;drawingUrl&#34;:&#34;https://youtube.com/playlist?list=PLeIaregq2XflR1Oe4syTt2CiTyV8p0Pr8&#34;,&#34;name&#34;:&#34;Florida Lotto&#34;,&#34;id&#34;:&#34;lotto&#34;}"></cmp-drawgameheader>
+</div>
+
+    
+
+</div>
+<div class="container responsivegrid container--p-lg aem-GridColumn aem-GridColumn--default--12">
+
+    
+    <div id="container-a128addd83" class="cmp-container cmp-container--responsive-grid spacing-t-none spacing-b-none">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="tabs panelcontainer aem-GridColumn aem-GridColumn--default--12">
+<div id="tabs-cb014549e5" class="cmp-tabs spacing-t-none spacing-b-none" data-cmp-is="tabs" data-placeholder-text="false">
+    <div class="cmp-tabs__tablist-wrapper relative px-10">
+        <button class="left-0 cmp-tabs__nav-btn" aria-hidden="true" tabindex="-1" data-cmp-hook-tabs="nav" data-dir="-1">
+            <span class="fas fa-chevron-left w-4 h-4" title="Previous"></span>
+        </button>
+
+        <div class="relative overflow-x-hidden">
+            <ol id="tabs-cb014549e5-tablist" role="tablist" class="cmp-tabs__tablist" aria-multiselectable="false" data-cmp-hook-tabs="tablist">
+                
+                <li role="tab" id="tabs-cb014549e5-item-03ff215606-tab" class="cmp-tabs__tab cmp-tabs__tab--active" aria-controls="tabs-cb014549e5-item-03ff215606-tabpanel" tabindex="0" data-cmp-hook-tabs="tab">Past Draw Results &amp; Prizes Won</li>
+            
+                
+                <li role="tab" id="tabs-cb014549e5-item-852cea83bd-tab" class="cmp-tabs__tab" aria-controls="tabs-cb014549e5-item-852cea83bd-tabpanel" tabindex="-1" data-cmp-hook-tabs="tab">Game Basics</li>
+            
+                
+                <li role="tab" id="tabs-cb014549e5-item-313c85e4c7-tab" class="cmp-tabs__tab" aria-controls="tabs-cb014549e5-item-313c85e4c7-tabpanel" tabindex="-1" data-cmp-hook-tabs="tab">How to Play</li>
+            
+                
+                <li role="tab" id="tabs-cb014549e5-item-55d9975115-tab" class="cmp-tabs__tab" aria-controls="tabs-cb014549e5-item-55d9975115-tabpanel" tabindex="-1" data-cmp-hook-tabs="tab">How to Win</li>
+            </ol>
+        </div>
+
+        <button class="right-0 cmp-tabs__nav-btn" aria-hidden="true" tabindex="-1" data-cmp-hook-tabs="nav" data-dir="1">
+            <span class="fas fa-chevron-right w-4 h-4" title="Next"></span>
+        </button>
+    </div>
+
+    <div id="tabs-cb014549e5-item-03ff215606-tabpanel" role="tabpanel" aria-labelledby="tabs-cb014549e5-item-03ff215606-tab" tabindex="0" class="cmp-tabs__tabpanel cmp-tabs__tabpanel--active" data-cmp-hook-tabs="tabpanel"><div class="container responsivegrid container--w-full">
+
+    
+    <div id="container-03ff215606" class="cmp-container cmp-container--responsive-grid spacing-t-none spacing-b-none">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-49d0d7a559" class="cmp-experiencefragment cmp-experiencefragment--game-page-spacer">
+
+
+    
+    <div id="container-49a4443c42" class="cmp-container cmp-container--responsive-grid spacing-t-none spacing-b-none">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="spacer aem-GridColumn aem-GridColumn--default--12"><div id="spacer-475a2066f9" class="cmp-spacer" data-height="64,lg:96"></div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+<div class="title aem-GridColumn aem-GridColumn--default--12">
+<div id="title-4b76ab3195" class="cmp-title spacing-t-none spacing-b-none">
+    <hgroup>
+      <h2 class="cmp-title__text">
+        Florida Lotto Past Results
+      </h2>
+
+      <p class="mt-2 cmp-title__subtitle">winning numbers for previous drawings</p>
+    </hgroup>
+
+    
+
+  <ul class="mt-8 -mx-2 md:-mx-4 md:mt-10 cmp-title__actions">
+      <li class="px-2 md:px-4 cmp-title__action">
+        <a class="cmp-title__action-link grower" id="title-4b76ab3195-cta-ffde09be17" href="https://files.floridalottery.com/exptkt/lottowinners_Dec09_to_present.pdf">Jackpot Winners &amp; Retailer Information</a>
+      </li>
+    
+      <li class="px-2 md:px-4 cmp-title__action">
+        <a class="cmp-title__action-link grower" id="title-4b76ab3195-cta-12e7df78b9" href="https://files.floridalottery.com/exptkt/l6.pdf">Winning Number History</a>
+      </li>
+    </ul>
+</div>
+
+    
+
+</div>
+<div class="drawgameresults aem-GridColumn aem-GridColumn--default--12"><div id="drawgameresults-fa7de61502" class="cmp-drawgameresults max-w-5xl mx-auto spacing-t-large spacing-b-none" data-vue>
+  <cmp-drawgameresults id="drawgameresults-fa7de61502-vc" api-url="https://apim-website-prod-eastus.azure-api.net" game-api-url="/content/flalottery-web/us/en/games/draw-games/florida-lotto.draw-games.json" history-url="https://files.floridalottery.com/exptkt/l6.pdf" game-id="lotto"></cmp-drawgameresults>
+</div>
+
+    
+</div>
+<div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-9eb90acc48" class="cmp-experiencefragment cmp-experiencefragment--game-page-spacer">
+
+
+    
+    <div id="container-810d2e80ae" class="cmp-container cmp-container--responsive-grid spacing-t-none spacing-b-none">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="spacer aem-GridColumn aem-GridColumn--default--12"><div id="spacer-38701552e1" class="cmp-spacer" data-height="64,lg:96"></div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+<div class="ezmatchtiers aem-GridColumn aem-GridColumn--default--12"><div id="ezmatchtiers-348d7343bd" class="cmp-ezmatchtiers max-w-5xl mx-auto spacing-t-none spacing-b-none" data-vue>
+    <cmp-ezmatchtiers id="ezmatchtiers-348d7343bd-vc" api-url="https://apim-website-prod-eastus.azure-api.net" game-id="lotto"></cmp-ezmatchtiers>
+</div>
+
+    
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+</div>
+<div id="tabs-cb014549e5-item-852cea83bd-tabpanel" role="tabpanel" aria-labelledby="tabs-cb014549e5-item-852cea83bd-tab" tabindex="0" class="cmp-tabs__tabpanel" data-cmp-hook-tabs="tabpanel"><div class="container responsivegrid container--w-full">
+
+    
+    <div id="container-852cea83bd" class="cmp-container cmp-container--responsive-grid spacing-t-none spacing-b-none">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-6c0039ea38" class="cmp-experiencefragment cmp-experiencefragment--game-page-spacer">
+
+
+    
+    <div id="container-de6dbef5c1" class="cmp-container cmp-container--responsive-grid spacing-t-none spacing-b-none">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="spacer aem-GridColumn aem-GridColumn--default--12"><div id="spacer-64bfd5dcf5" class="cmp-spacer" data-height="64,lg:96"></div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+<div class="title aem-GridColumn aem-GridColumn--default--12">
+<div id="title-0eef27e25b" class="cmp-title spacing-t-none spacing-b-base">
+    <hgroup>
+      <h2 class="cmp-title__text">
+                    Game Basics        
+      </h2>
+
+      <p class="mt-2 cmp-title__subtitle">get to know your game</p>
+    </hgroup>
+
+    
+
+  
+</div>
+
+    
+
+</div>
+<div class="infolist infolist--game-basics aem-GridColumn aem-GridColumn--default--12"><ul id="infolist-18699b90fa" class="cmp-infolist spacing-t-none spacing-b-none">
+  <li class="cmp-infolist__item">
+  <div class="cmp-infolist__item-inner">
+    <div class="
+        cmp-infolist__item-icon
+         cmp-infolist__item-icon--icon
+        
+      ">
+      <span class="fas fa-money-bill"></span>
+      
+    </div>
+
+    <div class="cmp-infolist__item-info">
+      <div class="cmp-infolist__item-title">
+        Base Ticket Price
+      </div>
+
+      <div class="cmp-infolist__item-description">
+        <p>$2</p>
+
+      </div>
+    </div>
+  </div>
+</li>
+
+  <li class="cmp-infolist__item">
+  <div class="cmp-infolist__item-inner">
+    <div class="
+        cmp-infolist__item-icon
+         cmp-infolist__item-icon--icon
+        
+      ">
+      <span class="fas fa-jackpot"></span>
+      
+    </div>
+
+    <div class="cmp-infolist__item-info">
+      <div class="cmp-infolist__item-title">
+        Starting Jackpot
+      </div>
+
+      <div class="cmp-infolist__item-description">
+        <p>$1 million</p>
+
+      </div>
+    </div>
+  </div>
+</li>
+
+  <li class="cmp-infolist__item">
+  <div class="cmp-infolist__item-inner">
+    <div class="
+        cmp-infolist__item-icon
+         cmp-infolist__item-icon--icon
+        
+      ">
+      <span class="fas fa-dice-two"></span>
+      
+    </div>
+
+    <div class="cmp-infolist__item-info">
+      <div class="cmp-infolist__item-title">
+        Overall Odds
+      </div>
+
+      <div class="cmp-infolist__item-description">
+        <p>1:7.61</p>
+
+      </div>
+    </div>
+  </div>
+</li>
+</ul>
+
+    
+
+</div>
+<div class="container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    
+    <div id="container-739587db02" class="cmp-container cmp-container--simple spacing-t-none spacing-b-none">
+        
+        <div class="cmp-container__items">
+            <div class="experiencefragment">
+<div id="experiencefragment-06c470e930" class="cmp-experiencefragment cmp-experiencefragment--game-page-spacer">
+
+
+    
+    <div id="container-7e18775367" class="cmp-container cmp-container--responsive-grid spacing-t-none spacing-b-none">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="spacer aem-GridColumn aem-GridColumn--default--12"><div id="spacer-b2d44d8d3f" class="cmp-spacer" data-height="64,lg:96"></div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+<div class="text">
+<div id="text-0bbaab6645" class="cmp-text prose prose-sm md:prose spacing-t-none spacing-b-tight">
+    <h3>Game add-on&#39;s</h3>
+
+</div>
+
+    
+
+</div>
+<div class="infolist infolist--game-add-on"><ul id="infolist-2dd672e257" class="cmp-infolist spacing-t-none spacing-b-none">
+  <li class="cmp-infolist__item">
+  <div class="cmp-infolist__item-inner">
+    <div class="
+        cmp-infolist__item-icon
+         cmp-infolist__item-icon--icon
+        
+      ">
+      <span class="fas fa-money-bill"></span>
+      
+    </div>
+
+    <div class="cmp-infolist__item-info">
+      <div class="cmp-infolist__item-title">
+        Double Play <sup>&#43;$1</sup>
+      </div>
+
+      <div class="cmp-infolist__item-description">
+        <ul><li>Bonus drawing to win up to $250,000 using the same numbers.</li><li> Double Play drawings are held right after FLORIDA LOTTO drawings.</li></ul>
+
+      </div>
+    </div>
+  </div>
+</li>
+
+  <li class="cmp-infolist__item">
+  <div class="cmp-infolist__item-inner">
+    <div class="
+        cmp-infolist__item-icon
+         cmp-infolist__item-icon--icon
+        
+      ">
+      <span class="fas fa-jackpot"></span>
+      
+    </div>
+
+    <div class="cmp-infolist__item-info">
+      <div class="cmp-infolist__item-title">
+        EZmatch™ <sup>&#43;$1</sup>
+      </div>
+
+      <div class="cmp-infolist__item-description">
+        <p>Add some instant fun to your FLORIDA LOTTO ticket with EZmatch™. Choose the EZmatch™ option for an additional $1 per play for a chance to win cash instantly.</p>
+
+      </div>
+    </div>
+  </div>
+</li>
+</ul>
+
+    
+
+</div>
+
+        	
+        </div>
+    </div>
+
+</div>
+<div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-021d716596" class="cmp-experiencefragment cmp-experiencefragment--game-page-spacer">
+
+
+    
+    <div id="container-e6fb70cee5" class="cmp-container cmp-container--responsive-grid spacing-t-none spacing-b-none">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="spacer aem-GridColumn aem-GridColumn--default--12"><div id="spacer-2de6b1fa36" class="cmp-spacer" data-height="64,lg:96"></div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+<div class="container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    
+    <div id="container-2177a557f1" class="cmp-container cmp-container--simple spacing-t-none spacing-b-none">
+        
+        <div class="cmp-container__items">
+            <div class="text">
+<div id="text-bf8a081180" class="cmp-text prose prose-sm md:prose spacing-t-none spacing-b-large">
+    <h3 style="	text-align: center;
+">How to read your Florida Lotto ticket</h3>
+<p style="	text-align: center;
+">Find all the details of your ticket below by clicking or tapping on the ticket hotspots.</p>
+
+</div>
+
+    
+
+</div>
+<div class="ticketbreakdown"><div id="ticketbreakdown-8e5a054ec8" class="cmp-ticketbreakdown spacing-t-none spacing-b-none" data-vue>
+	<cmp-ticketbreakdown id="ticketbreakdown-8e5a054ec8-vc" ticket-id="floridaLotto"></cmp-ticketbreakdown>
+</div>
+
+    
+</div>
+
+        	
+        </div>
+    </div>
+
+</div>
+<div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-5543d5738b" class="cmp-experiencefragment cmp-experiencefragment--game-page-spacer">
+
+
+    
+    <div id="container-b589278e34" class="cmp-container cmp-container--responsive-grid spacing-t-none spacing-b-none">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="spacer aem-GridColumn aem-GridColumn--default--12"><div id="spacer-43bb5f3b72" class="cmp-spacer" data-height="64,lg:96"></div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+<div class="container responsivegrid container--w-full aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    
+    <div id="container-963a81a658" class="cmp-container cmp-container--simple spacing-t-none spacing-b-none">
+        
+        <div class="cmp-container__items">
+            <div class="text">
+<div id="text-6472f32071" class="cmp-text prose prose-sm md:prose spacing-t-none spacing-b-base">
+    <h3>More ways to play</h3>
+
+</div>
+
+    
+
+</div>
+<div class="carousel panelcontainer carousel--w-full-mobile"><section id="carousel-6641bfe6cb" class="cmp-carousel swiper spacing-t-none spacing-b-none" data-cmp-is="carousel" data-cmp-config="{&#34;hasGap&#34;:true,&#34;breakpoints&#34;:[{&#34;screen&#34;:null,&#34;hasCenteredSlides&#34;:false,&#34;slideMaxWidth&#34;:&#34;xs&#34;,&#34;slidesPerView&#34;:&#34;auto&#34;},{&#34;screen&#34;:&#34;md&#34;,&#34;hasCenteredSlides&#34;:false,&#34;slideMaxWidth&#34;:&#34;full&#34;,&#34;slidesPerView&#34;:&#34;2&#34;},{&#34;screen&#34;:&#34;lg&#34;,&#34;hasCenteredSlides&#34;:false,&#34;slideMaxWidth&#34;:&#34;full&#34;,&#34;slidesPerView&#34;:&#34;3&#34;},{&#34;screen&#34;:&#34;xl&#34;,&#34;hasCenteredSlides&#34;:false,&#34;slideMaxWidth&#34;:&#34;full&#34;,&#34;slidesPerView&#34;:&#34;4&#34;}]}" data-placeholder-text="false">
+    <div class="cmp-carousel__content swiper-wrapper">
+        <div id="carousel-6641bfe6cb-item-4086186fca" class="cmp-carousel__item cmp-carousel__item--active swiper-slide" data-cmp-hook-carousel="item"><div class="cardcta cardcta--left"><article class="cmp-cardcta spacing-t-none spacing-b-none">
+    <div class="relative flex flex-col h-full max-w-sm bg-white border rounded-lg border-beige-50 xs:max-w-xs cmp-cardcta__inner">
+        
+        <a class="block" aria-labelledby="cardcta-4086186fca-title" href="https://floridalottery.com/promotions/ongoing-promotions#grouper">
+            <span class="block bg-center bg-cover rounded-t-lg bg-beige-300 ratio ratio-4:3 lazyload" data-bg="/content/dam/flalottery-web/images/promotions/grouper/grouper-promo-teaser-card.png/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"></span>
+        </a>
+
+        
+        <div class="absolute top-0 left-0 inline-block py-1 pl-2 pr-3 mt-2 ml-2 text-sm leading-tight text-white uppercase bg-pink-500 rounded-full pointer-events-none md:mt-3 md:ml-3 cmp-cardcta__date font-condensed">
+            <div class="pb-px">
+                <span class="mr-1 fas fa-fw fa-calendar"></span>
+                <span class="sr-only">Date:</span>
+                Ongoing
+            </div>
+        </div>
+
+        
+        <div class="relative flex flex-col justify-between flex-grow p-5 pb-6">
+            <div>
+                <hgroup class="cmp-cardcta__title-group">
+                    
+                    <p class="block text-xs text-green-500 uppercase cmp-cardcta__supertitle">
+                       Promotion
+                    </p>
+
+                    
+                    <h4 id="cardcta-4086186fca-title" class="text-2xl font-bold leading-none text-black uppercase cmp-cardcta__title font-condensed">
+                        Grouper
+                    </h4>
+                </hgroup>
+
+                
+                <div class="prose-sm prose cmp-cardcta__description">
+                    <p>5 Florida Favorites for $5</p>
+
+                </div>
+
+                
+                
+
+                
+                
+            </div>
+
+            
+            <ul class="cmp-cardcta__actions">
+                
+            </ul>
+        </div>
+    </div>
+</article></div>
+</div>
+<div id="carousel-6641bfe6cb-item-bd6e21fa76" class="cmp-carousel__item swiper-slide" data-cmp-hook-carousel="item"><div class="cardcta"><article class="cmp-cardcta spacing-t-none spacing-b-none">
+    <div class="relative flex flex-col h-full max-w-sm bg-white border rounded-lg border-beige-50 xs:max-w-xs cmp-cardcta__inner">
+        
+        <a class="block" aria-labelledby="cardcta-bd6e21fa76-title" href="https://floridalottery.com/promotions/ongoing-promotions#grouper-super-sampler">
+            <span class="block bg-center bg-cover rounded-t-lg bg-beige-300 ratio ratio-4:3 lazyload" data-bg="/content/dam/flalottery-web/images/promotions/grouper/grouper-super-sampler-promo-teaser-card.png/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"></span>
+        </a>
+
+        
+        <div class="absolute top-0 left-0 inline-block py-1 pl-2 pr-3 mt-2 ml-2 text-sm leading-tight text-white uppercase bg-pink-500 rounded-full pointer-events-none md:mt-3 md:ml-3 cmp-cardcta__date font-condensed">
+            <div class="pb-px">
+                <span class="mr-1 fas fa-fw fa-calendar"></span>
+                <span class="sr-only">Date:</span>
+                Ongoing
+            </div>
+        </div>
+
+        
+        <div class="relative flex flex-col justify-between flex-grow p-5 pb-6">
+            <div>
+                <hgroup class="cmp-cardcta__title-group">
+                    
+                    <p class="block text-xs text-green-500 uppercase cmp-cardcta__supertitle">
+                       Promotion
+                    </p>
+
+                    
+                    <h4 id="cardcta-bd6e21fa76-title" class="text-2xl font-bold leading-none text-black uppercase cmp-cardcta__title font-condensed">
+                        Grouper Super Sampler
+                    </h4>
+                </hgroup>
+
+                
+                <div class="prose-sm prose cmp-cardcta__description">
+                    <p>10 Ways to Win BIG for $10</p>
+
+                </div>
+
+                
+                
+
+                
+                
+            </div>
+
+            
+            <ul class="cmp-cardcta__actions">
+                
+            </ul>
+        </div>
+    </div>
+</article></div>
+</div>
+<div id="carousel-6641bfe6cb-item-7da8d9913a" class="cmp-carousel__item swiper-slide" data-cmp-hook-carousel="item"><div class="cardcta"><article class="cmp-cardcta spacing-t-none spacing-b-none">
+    <div class="relative flex flex-col h-full max-w-sm bg-white border rounded-lg border-beige-50 xs:max-w-xs cmp-cardcta__inner">
+        
+        <a class="block" aria-labelledby="cardcta-7da8d9913a-title" href="https://floridalottery.com/promotions/ongoing-promotions#jackpot-combo">
+            <span class="block bg-center bg-cover rounded-t-lg bg-beige-300 ratio ratio-4:3 lazyload" data-bg="/content/dam/flalottery-web/images/games/ongoing-promotions/jackpotcombo.png/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"></span>
+        </a>
+
+        
+        <div class="absolute top-0 left-0 inline-block py-1 pl-2 pr-3 mt-2 ml-2 text-sm leading-tight text-white uppercase bg-pink-500 rounded-full pointer-events-none md:mt-3 md:ml-3 cmp-cardcta__date font-condensed">
+            <div class="pb-px">
+                <span class="mr-1 fas fa-fw fa-calendar"></span>
+                <span class="sr-only">Date:</span>
+                Ongoing
+            </div>
+        </div>
+
+        
+        <div class="relative flex flex-col justify-between flex-grow p-5 pb-6">
+            <div>
+                <hgroup class="cmp-cardcta__title-group">
+                    
+                    <p class="block text-xs text-green-500 uppercase cmp-cardcta__supertitle">
+                       Promotion
+                    </p>
+
+                    
+                    <h4 id="cardcta-7da8d9913a-title" class="text-2xl font-bold leading-none text-black uppercase cmp-cardcta__title font-condensed">
+                        Jackpot Combo
+                    </h4>
+                </hgroup>
+
+                
+                <div class="prose-sm prose cmp-cardcta__description">
+                    <p>Get all the action of the Florida Lottery&#39;s biggest jackpot games!</p>
+
+                </div>
+
+                
+                
+
+                
+                
+            </div>
+
+            
+            <ul class="cmp-cardcta__actions">
+                
+            </ul>
+        </div>
+    </div>
+</article></div>
+</div>
+<div id="carousel-6641bfe6cb-item-4cc3556185" class="cmp-carousel__item swiper-slide" data-cmp-hook-carousel="item"><div class="cardcta"><article class="cmp-cardcta spacing-t-none spacing-b-none">
+    <div class="relative flex flex-col h-full max-w-sm bg-white border rounded-lg border-beige-50 xs:max-w-xs cmp-cardcta__inner">
+        
+        <a class="block" aria-labelledby="cardcta-4cc3556185-title" href="https://floridalottery.com/promotions/ongoing-promotions#advance-play">
+            <span class="block bg-center bg-cover rounded-t-lg bg-beige-300 ratio ratio-4:3 lazyload" data-bg="/content/dam/flalottery-web/images/games/ongoing-promotions/advanced-play.png/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"></span>
+        </a>
+
+        
+        <div class="absolute top-0 left-0 inline-block py-1 pl-2 pr-3 mt-2 ml-2 text-sm leading-tight text-white uppercase bg-pink-500 rounded-full pointer-events-none md:mt-3 md:ml-3 cmp-cardcta__date font-condensed">
+            <div class="pb-px">
+                <span class="mr-1 fas fa-fw fa-calendar"></span>
+                <span class="sr-only">Date:</span>
+                Ongoing
+            </div>
+        </div>
+
+        
+        <div class="relative flex flex-col justify-between flex-grow p-5 pb-6">
+            <div>
+                <hgroup class="cmp-cardcta__title-group">
+                    
+                    <p class="block text-xs text-green-500 uppercase cmp-cardcta__supertitle">
+                       Promotion
+                    </p>
+
+                    
+                    <h4 id="cardcta-4cc3556185-title" class="text-2xl font-bold leading-none text-black uppercase cmp-cardcta__title font-condensed">
+                        Advance Play
+                    </h4>
+                </hgroup>
+
+                
+                <div class="prose-sm prose cmp-cardcta__description">
+                    <p>Play your favorite numbers up to 6 months in advance.</p>
+                </div>
+
+                
+                
+
+                
+                
+            </div>
+
+            
+            <ul class="cmp-cardcta__actions">
+                
+            </ul>
+        </div>
+    </div>
+</article></div>
+</div>
+
+    </div>
+
+    <div class="swiper-controls">
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-pagination"></div>
+        <div class="swiper-button-next"></div>
+    </div>
+
+    
+</section></div>
+
+        	
+        </div>
+    </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+</div>
+<div id="tabs-cb014549e5-item-313c85e4c7-tabpanel" role="tabpanel" aria-labelledby="tabs-cb014549e5-item-313c85e4c7-tab" tabindex="0" class="cmp-tabs__tabpanel" data-cmp-hook-tabs="tabpanel"><div class="container responsivegrid container--w-full">
+
+    
+    <div id="container-313c85e4c7" class="cmp-container cmp-container--responsive-grid spacing-t-none spacing-b-none">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 aem-Grid--xxs--12 aem-Grid--md--12 aem-Grid--lg--12 ">
+    
+    <div class="container responsivegrid container--inset aem-GridColumn--xxs--12 aem-GridColumn--lg--12 aem-GridColumn--xxs--none aem-GridColumn--default--none aem-GridColumn--offset--default--0 aem-GridColumn--offset--lg--0 aem-GridColumn--lg--none aem-GridColumn aem-GridColumn--offset--xxs--0 aem-GridColumn--offset--md--0 aem-GridColumn--default--12 aem-GridColumn--md--none aem-GridColumn--md--12">
+
+    
+    
+    
+    <div id="container-1bcad06574" class="cmp-container cmp-container--simple spacing-t-none spacing-b-none">
+        
+        <div class="cmp-container__items">
+            <div class="experiencefragment">
+<div id="experiencefragment-3e5aaf6845" class="cmp-experiencefragment cmp-experiencefragment--game-page-spacer">
+
+
+    
+    <div id="container-c69064d475" class="cmp-container cmp-container--responsive-grid spacing-t-none spacing-b-none">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="spacer aem-GridColumn aem-GridColumn--default--12"><div id="spacer-186473f2d2" class="cmp-spacer" data-height="64,lg:96"></div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+<div class="title">
+<div id="title-7b70c0af73" class="cmp-title spacing-t-none spacing-b-base">
+    <hgroup>
+      <h2 class="cmp-title__text">
+        How to Play
+      </h2>
+
+      <p class="mt-2 cmp-title__subtitle">a step-by-step guide to your game</p>
+    </hgroup>
+
+    
+
+  
+</div>
+
+    
+
+</div>
+<div class="video text"><div id="video-98fbac3443" class="cmp-video spacing-t-none spacing-b-none" data-vue>
+    <cmp-video id="video-98fbac3443-vc" component-id="video-98fbac3443" url="https://youtu.be/tHItwMA5zMA" title="How to Play Florida Lotto | Florida Lottery" :collapse-transcript="false" v-cloak>
+        <p>How to Play Florida&#39;s original jackpot Game, The FLORIDA LOTTO!</p>
+<p>Players pick 6 numbers between 1-53 on each panel or just ask for a Quick Pick to Jet the terminal pick some or all of your numbers at random. Use the Florida Lottery app to create a digital play slip or fill one out at a Florida Lottery retailer. You can also purchase directly from a Florida Lottery vending machine.</p>
+<p>Every FLORIDA LOTTO ticket comes with an instant, random multiplier that automatically increases non-jackpot cash prizes up to 10 times!</p>
+<p>On top of that, match 2 of 6 winning numbers and win a FREE ticket!</p>
+<p>With add-ons like EZ Match, where players can win instantly, and with Double Play, it&#39;s no wonder this game is an instant classic.</p>
+<p>For just $2, you could win the game that has million-dollar jackpots that roll until there is a winner, and the drawings are held twice a week.</p>
+<p>And with the $1 add-on, Double Play, players have the chance to win additional prizes up to $250,000 in an additional drawing held immediately after the FLORIDA LOTTO drawing, using the same numbers and multiplier played on their ticket.</p>
+<p>Play the FLORIDA LOTTO today!</p>
+
+    </cmp-video>
+</div>
+
+    
+</div>
+<div class="experiencefragment">
+<div id="experiencefragment-d649b6ac30" class="cmp-experiencefragment cmp-experiencefragment--game-page-spacer">
+
+
+    
+    <div id="container-e6ba4fa056" class="cmp-container cmp-container--responsive-grid spacing-t-none spacing-b-none">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="spacer aem-GridColumn aem-GridColumn--default--12"><div id="spacer-1627a9c0df" class="cmp-spacer" data-height="64,lg:96"></div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+<div class="text">
+<div id="text-4d706142e5" class="cmp-text prose prose-sm md:prose spacing-t-none spacing-b-large">
+    <h3>Playing Florida Lotto</h3>
+
+</div>
+
+    
+
+</div>
+<div class="list container responsivegrid">
+    
+    <ol id="list-11dcaec82e" class="cmp-list spacing-t-none spacing-b-none">
+        
+        <li class="cmp-list__item"><div class="listitem container responsivegrid">
+
+    
+    
+    
+    <div id="listitem-535fbe8102" class="cmp-container cmp-container--simple ">
+        
+        <div class="cmp-container__items">
+            <div class="text">
+<div id="text-5d85461555" class="cmp-text prose prose-sm md:prose spacing-t-none spacing-b-base">
+    <h4>Get your playslip</h4>
+<p>Visit any Florida Lottery retail location for a paper playslip to choose your numbers. Every FLORIDA LOTTO playslip allows you to play up to ten panels, with each panel equaling one ticket. Tickets can be purchased until 10:55 p.m., Eastern Time, on the night of the draw. Tickets purchased after 10:55 p.m. will be for the next draw.</p>
+
+</div>
+
+    
+
+</div>
+<div class="button button--pink">
+<a id="button-d77bc5633f" class="cmp-button spacing-t-none spacing-b-none" href="/where-to-play">
+    
+    <span class="cmp-button__icon fas fa-arrow-right" aria-hidden="true"></span>
+
+    <span class="cmp-button__text">Find a retailer</span>
+</a>
+</div>
+
+        	
+        </div>
+    </div>
+
+</div>
+</li>
+<li class="cmp-list__item"><div class="listitem container responsivegrid">
+
+    
+    
+    
+    <div id="listitem-11b6afce92" class="cmp-container cmp-container--simple ">
+        
+        <div class="cmp-container__items">
+            <div class="text">
+<div id="text-825b67d675" class="cmp-text prose prose-sm md:prose spacing-t-none spacing-b-base">
+    <h4>Mark your panels</h4>
+<p>Choose a panel and select six numbers from 1 through 53—or mark the QP box (Quick Pick) in the panel and let the terminal pick some or all of your numbers at random.</p>
+
+</div>
+
+    
+
+</div>
+<div class="image">
+<div data-cmp-is="image" data-cmp-lazy data-cmp-lazythreshold="0" data-cmp-src="/games/draw-games/florida-lotto/_jcr_content/root/container/container/container/tabs/container_1643388960/container/list/item_2/image.coreimg.85{.width}.png/1685972310394/florida-lotto-playslip.png" data-cmp-widths="320,480,600,800,1024,1200,1600" data-asset="/content/dam/flalottery-web/images/games/draw-games/03-florida-lotto/florida-lotto-playslip.png" data-title="Florida Lotto Playslip" id="image-6a44dc6f80" class="cmp-image spacing-t-none spacing-b-none" itemscope itemtype="http://schema.org/ImageObject">
+    
+        <noscript data-cmp-hook-image="noscript">
+            
+            <img src="/games/draw-games/florida-lotto/_jcr_content/root/container/container/container/tabs/container_1643388960/container/list/item_2/image.coreimg.png/1685972310394/florida-lotto-playslip.png" class="cmp-image__image" itemprop="contentUrl" data-cmp-hook-image="image" alt="Florida Lotto Playslip" title="Florida Lotto Playslip"/>
+            
+        </noscript>
+    
+    
+    <meta itemprop="caption" content="Florida Lotto Playslip"/>
+</div>
+
+    
+</div>
+
+        	
+        </div>
+    </div>
+
+</div>
+</li>
+<li class="cmp-list__item"><div class="listitem container responsivegrid">
+
+    
+    
+    
+    <div id="listitem-5e00374824" class="cmp-container cmp-container--simple ">
+        
+        <div class="cmp-container__items">
+            <div class="text">
+<div id="text-b1b10cdabe" class="cmp-text prose prose-sm md:prose spacing-t-none spacing-b-base">
+    <h4>Choose your add-on&#39;s</h4>
+
+</div>
+
+    
+
+</div>
+<div class="accordion panelcontainer">
+<div id="accordion-4a61683b60" class="cmp-accordion spacing-t-none spacing-b-none" data-cmp-is="accordion" data-placeholder-text="false">
+    <div class="cmp-accordion__item" data-cmp-hook-accordion="item" id="accordion-4a61683b60-item-284e01facb">
+        <h2 class="cmp-accordion__header">
+            <button id="accordion-4a61683b60-item-284e01facb-button" class="cmp-accordion__button" aria-controls="accordion-4a61683b60-item-284e01facb-panel" data-cmp-hook-accordion="button">
+                <span class="cmp-accordion__title">Bonus cash prizes with Double Play (+ $1)</span>
+                <svg class="cmp-accordion__icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.25" aria-hidden="true" focusable="false">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5"/>
+                </svg>
+            </button>
+        </h2>
+        <div data-cmp-hook-accordion="panel" id="accordion-4a61683b60-item-284e01facb-panel" class="cmp-accordion__panel cmp-accordion__panel--hidden"><div class="container responsivegrid container--p-sm">
+
+    
+    
+    
+    <div id="container-284e01facb" class="cmp-container cmp-container--simple spacing-t-none spacing-b-none">
+        
+        <div class="cmp-container__items">
+            <div class="text">
+<div id="text-13952726fa" class="cmp-text prose prose-sm md:prose spacing-t-none spacing-b-none">
+    <p>Select the Double Play box on the left side of your playslip to get an extra chance to win cash prizes for just $1 more per play. The Double Play drawing is held immediately after the Florida Lotto drawing and uses the same numbers played on your ticket.</p>
+
+</div>
+
+    
+
+</div>
+
+        	
+        </div>
+    </div>
+
+</div>
+</div>
+    </div>
+<div class="cmp-accordion__item" data-cmp-hook-accordion="item" id="accordion-4a61683b60-item-d06e144cb4">
+        <h2 class="cmp-accordion__header">
+            <button id="accordion-4a61683b60-item-d06e144cb4-button" class="cmp-accordion__button" aria-controls="accordion-4a61683b60-item-d06e144cb4-panel" data-cmp-hook-accordion="button">
+                <span class="cmp-accordion__title">EZmatch™ instant prizes (+ $1)</span>
+                <svg class="cmp-accordion__icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.25" aria-hidden="true" focusable="false">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5"/>
+                </svg>
+            </button>
+        </h2>
+        <div data-cmp-hook-accordion="panel" id="accordion-4a61683b60-item-d06e144cb4-panel" class="cmp-accordion__panel cmp-accordion__panel--hidden"><div class="container responsivegrid container--p-sm">
+
+    
+    
+    
+    <div id="container-d06e144cb4" class="cmp-container cmp-container--simple spacing-t-none spacing-b-none">
+        
+        <div class="cmp-container__items">
+            <div class="text">
+<div id="text-f4dca9c562" class="cmp-text prose prose-sm md:prose spacing-t-none spacing-b-none">
+    <p>Select the EZmatch™ box at the top of each panel to get a chance to win cash instantly for just $1 more per play.</p>
+
+</div>
+
+    
+
+</div>
+
+        	
+        </div>
+    </div>
+
+</div>
+</div>
+    </div>
+
+    
+</div>
+</div>
+<div class="experiencefragment">
+<div id="experiencefragment-172620d7e1" class="cmp-experiencefragment cmp-experiencefragment--advanced-play-text-cta">
+
+
+    
+    <div id="container-d5674dee09" class="cmp-container cmp-container--responsive-grid spacing-t-none spacing-b-none">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="container responsivegrid container--p-sm container--rounded aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    
+    <div id="container-774b995928" class="cmp-container cmp-container--simple spacing-t-base spacing-b-none" style="background-color:#F2ECE2;">
+        
+        <div class="cmp-container__items">
+            <div class="text text--list-star">
+<div id="text-6b8b2d9b81" class="cmp-text prose prose-xs md:prose-sm spacing-t-none spacing-b-none">
+    <h4><strong>Save time with Advance Play</strong></h4>
+<p>To play the same numbers for more than one draw, select the number of advance draws you wish to play in the Advance Play section at the top of your playslip. If you claim a prize on a winning Advance Play ticket before all of the draws on the ticket have occurred, you will be issued a continuation ticket for the remaining draws with the same play numbers as the original ticket.</p>
+
+</div>
+
+    
+
+</div>
+
+        	
+        </div>
+    </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+        	
+        </div>
+    </div>
+
+</div>
+</li>
+<li class="cmp-list__item"><div class="listitem container responsivegrid">
+
+    
+    
+    
+    <div id="listitem-5671e00336" class="cmp-container cmp-container--simple ">
+        
+        <div class="cmp-container__items">
+            <div class="text">
+<div id="text-6c9d2e6331" class="cmp-text prose prose-sm md:prose spacing-t-none spacing-b-base">
+    <h4>Submit your playslip</h4>
+<p>Submit your playslip to your Florida Lottery retailer and receive your official printed Florida Lotto ticket with your numbers, draw date(s), and any add-ons. You’ll need this ticket to claim any prizes, so keep it safe!</p>
+
+</div>
+
+    
+
+</div>
+<div class="button button--pink">
+<a id="button-7a7b9a4dfc" class="cmp-button spacing-t-none spacing-b-none" href="/where-to-play">
+    
+    <span class="cmp-button__icon fas fa-arrow-right" aria-hidden="true"></span>
+
+    <span class="cmp-button__text">Find a retailer</span>
+</a>
+</div>
+<div class="experiencefragment">
+<div id="experiencefragment-489ae826c8" class="cmp-experiencefragment cmp-experiencefragment--mobile-app-text-cta">
+
+
+    
+    <div id="container-c19b4424fa" class="cmp-container cmp-container--responsive-grid spacing-t-none spacing-b-none">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="container responsivegrid container--p-sm container--rounded aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    
+    <div id="container-363bd23fca" class="cmp-container cmp-container--simple spacing-t-base spacing-b-none" style="background-color:#F2ECE2;">
+        
+        <div class="cmp-container__items">
+            <div class="text text--list-star">
+<div id="text-127a654e85" class="cmp-text prose prose-xs md:prose-sm spacing-t-none spacing-b-none">
+    <h4>Did you know you can download and use the Florida Lottery app to play any of our draw games?</h4>
+<p>Our app lets you create and save your favorite numbers on digital playslips. Simply have your retailer scan the app and print your paper ticket and you’re good to go. It&#39;s that easy! Download on the <a href="https://apps.apple.com/us/app/flalottery/id476160599?ls&#61;1">App Store</a> or <a href="https://play.google.com/store/apps/details?id&#61;com.flalottery.FLALOTTERY">Google Play</a>.</p>
+
+</div>
+
+    
+
+</div>
+
+        	
+        </div>
+    </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+        	
+        </div>
+    </div>
+
+</div>
+</li>
+
+        
+    </ol>
+</div>
+
+        	
+        </div>
+    </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+</div>
+<div id="tabs-cb014549e5-item-55d9975115-tabpanel" role="tabpanel" aria-labelledby="tabs-cb014549e5-item-55d9975115-tab" tabindex="0" class="cmp-tabs__tabpanel" data-cmp-hook-tabs="tabpanel"><div class="container responsivegrid container--w-full">
+
+    
+    
+    
+    <div id="container-55d9975115" class="cmp-container cmp-container--simple spacing-t-none spacing-b-none">
+        
+        <div class="cmp-container__items">
+            <div class="experiencefragment">
+<div id="experiencefragment-bf8273c59c" class="cmp-experiencefragment cmp-experiencefragment--game-page-spacer">
+
+
+    
+    <div id="container-b8113845e8" class="cmp-container cmp-container--responsive-grid spacing-t-none spacing-b-none">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="spacer aem-GridColumn aem-GridColumn--default--12"><div id="spacer-7a060acff3" class="cmp-spacer" data-height="64,lg:96"></div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+<div class="title">
+<div id="title-51d3f49acf" class="cmp-title spacing-t-none spacing-b-large">
+    <hgroup>
+      <h2 class="cmp-title__text">
+        How to Win
+      </h2>
+
+      <p class="mt-2 cmp-title__subtitle">Find your winning combination</p>
+    </hgroup>
+
+    
+
+  
+</div>
+
+    
+
+</div>
+<div class="text">
+<div id="text-5c0b5b89e5" class="cmp-text prose prose-sm md:prose spacing-t-none spacing-b-tight">
+    <h3>FLORIDA LOTTO®</h3>
+
+</div>
+
+    
+
+</div>
+<div class="gametable"><div id="gametable-d9f80fe843" class="cmp-gametable spacing-t-none spacing-b-none" data-vue>
+	<cmp-gametable id="gametable-d9f80fe843-vc" table-id="florida-lotto-odds"></cmp-gametable>
+</div>
+
+    
+</div>
+<div class="experiencefragment">
+<div id="experiencefragment-8fc28d4ae9" class="cmp-experiencefragment cmp-experiencefragment--title----component-spacer">
+
+
+    
+    <div id="container-93b662587e" class="cmp-container cmp-container--responsive-grid spacing-t-none spacing-b-none">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="spacer aem-GridColumn aem-GridColumn--default--12"><div id="spacer-b943309b56" class="cmp-spacer" data-height="48,lg:64"></div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+<div class="text">
+<div id="text-d3a50ee374" class="cmp-text prose prose-sm md:prose spacing-t-none spacing-b-base">
+    <h3>Double Play®</h3>
+
+</div>
+
+    
+
+</div>
+<div class="gametable"><div id="gametable-3557c16553" class="cmp-gametable spacing-t-none spacing-b-none" data-vue>
+	<cmp-gametable id="gametable-3557c16553-vc" table-id="florida-lotto-double-play-odds"></cmp-gametable>
+</div>
+
+    
+</div>
+<div class="experiencefragment">
+<div id="experiencefragment-cebd87fa47" class="cmp-experiencefragment cmp-experiencefragment--title----component-spacer">
+
+
+    
+    <div id="container-5c517db950" class="cmp-container cmp-container--responsive-grid spacing-t-none spacing-b-none">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="spacer aem-GridColumn aem-GridColumn--default--12"><div id="spacer-a343f51a9b" class="cmp-spacer" data-height="48,lg:64"></div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+<div class="text">
+<div id="text-04b0c1a8a2" class="cmp-text prose prose-sm md:prose spacing-t-none spacing-b-base">
+    <h3>EZmatch™</h3>
+
+</div>
+
+    
+
+</div>
+<div class="gametable"><div id="gametable-2256fdf32a" class="cmp-gametable spacing-t-none spacing-b-large" data-vue>
+	<cmp-gametable id="gametable-2256fdf32a-vc" table-id="florida-lotto-ezmatch-odds"></cmp-gametable>
+</div>
+
+    
+</div>
+<div class="accordion panelcontainer">
+<div id="accordion-8c41245035" class="cmp-accordion spacing-t-large spacing-b-none" data-cmp-is="accordion" data-placeholder-text="false">
+    <div class="cmp-accordion__item" data-cmp-hook-accordion="item" id="accordion-8c41245035-item-6647368c4c">
+        <h3 class="cmp-accordion__header">
+            <button id="accordion-8c41245035-item-6647368c4c-button" class="cmp-accordion__button" aria-controls="accordion-8c41245035-item-6647368c4c-panel" data-cmp-hook-accordion="button">
+                <span class="cmp-accordion__title">How to Win: Full Details</span>
+                <svg class="cmp-accordion__icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.25" aria-hidden="true" focusable="false">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5"/>
+                </svg>
+            </button>
+        </h3>
+        <div data-cmp-hook-accordion="panel" id="accordion-8c41245035-item-6647368c4c-panel" class="cmp-accordion__panel cmp-accordion__panel--hidden"><div class="container responsivegrid container--p-sm">
+
+    
+    
+    
+    <div id="container-6647368c4c" class="cmp-container cmp-container--simple spacing-t-none spacing-b-none">
+        
+        <div class="cmp-container__items">
+            <div class="text">
+<div id="text-f62c7c2099" class="cmp-text prose prose-sm md:prose spacing-t-none spacing-b-none">
+    <p>The Florida Lottery will hold official Florida Lotto drawings in which six out of 53 numbers will be drawn at random. If your six numbers match the six winning numbers drawn in the official Florida Lotto drawing for the date played, you win the jackpot. Match three, four, or five of the winning numbers to win other cash prizes that are automatically multiplied by the multiplier number printed on the ticket. Players who match just two numbers win a free Florida Lotto Quick Pick ticket for the next available drawing.</p>
+<p>The multiplier number is generated at random, from two, three, four, five, or ten. If a Florida Lotto player matches three, four, or five winning numbers, he/she wins an amount equal to the original prize amount multiplied by the multiplier that was generated on their ticket. If the player matches just two winning numbers, he/she wins a free Florida Lotto Quick Pick ticket for the next available draw.</p>
+<p>Florida Lotto with Double Play players who match the six winning numbers in the Double Play drawing win the $250,000 top prize. Those who match five, four, or three winning numbers win other great cash prizes that are automatically multiplied by the multiplier number printed on the ticket. Florida Lotto with Double Play players who match just two winning numbers win a free Florida Lotto with Double Play Quick Pick ticket for the next available draw.</p>
+<p>Players may choose to receive their portion of the Florida Lotto jackpots in a one-time Cash Option payment or in 30 annual payments. The Cash Option payment is the amount required on the day of the drawing (or if the drawing is held on a Saturday or holiday, the business day prior to the drawing) to fund the applicable jackpot prize paid over 30 years, less applicable taxes. Florida Lotto jackpot winners who want to receive a single Cash Option payment must claim their prizes within the first 60 days of the 180-day redemption period. Applicable federal income taxes will be withheld from both Cash Option and annual payments at the time payments are made. Read more about <a href="https://floridalottery.com/winning/guide#how-to-claim">claiming Lottery prizes</a>.</p>
+<p>Download the <a href="/content/dam/flalottery-web/files/game-reports/florida-lotto/lotto-game-rules.pdf">game rules</a>.</p>
+
+</div>
+
+    
+
+</div>
+
+        	
+        </div>
+    </div>
+
+</div>
+</div>
+    </div>
+
+    
+</div>
+</div>
+
+        	
+        </div>
+    </div>
+
+</div>
+</div>
+
+
+    
+</div>
+</div>
+<div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-a85a56e639" class="cmp-experiencefragment cmp-experiencefragment--did-you-win">
+
+
+    
+    <div id="container-97c649a130" class="cmp-container cmp-container--responsive-grid spacing-t-base spacing-b-none">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-df0002b912" class="cmp-experiencefragment cmp-experiencefragment--game-page-spacer">
+
+
+    
+    <div id="container-24ea930b87" class="cmp-container cmp-container--responsive-grid spacing-t-none spacing-b-none">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="spacer aem-GridColumn aem-GridColumn--default--12"><div id="spacer-fdeb261993" class="cmp-spacer" data-height="64,lg:96"></div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+<div class="container responsivegrid container--spaced-tight container--grid container--h-full aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    
+    <div id="container-b6e0ef2560" class="cmp-container cmp-container--simple spacing-t-none spacing-b-none">
+        
+        <div class="cmp-container__items">
+            <div class="textcta textcta--boxed"><article class="cmp-textcta spacing-t-none spacing-b-none">
+    <div class="cmp-textcta__icon">
+        <span class="fas fa-award"></span>
+    </div>
+
+    <div class="cmp-textcta__info">
+        <h2 class="cmp-textcta__title">
+            Did you win?
+        </h2>
+
+        <div class="cmp-textcta__content">
+            <p>Read more about prize options, important dates, &amp; claiming.</p>
+
+        </div>
+
+        <div class="cmp-textcta__button-wrapper">
+            <a class="cmp-button cmp-textcta__button" href="/winning/guide">
+                <span class="cmp-button__text">About winning</span>
+            </a>
+        </div>
+    </div>
+</article>
+
+    
+</div>
+<div class="textcta textcta--boxed"><article class="cmp-textcta spacing-t-none spacing-b-none">
+    <div class="cmp-textcta__icon">
+        <span class="fas fa-dice-two"></span>
+    </div>
+
+    <div class="cmp-textcta__info">
+        <h2 class="cmp-textcta__title">
+            Know your odds
+        </h2>
+
+        <div class="cmp-textcta__content">
+            <p>Odds can be tough. Learn more about them in our Player’s Guide.</p>
+
+        </div>
+
+        <div class="cmp-textcta__button-wrapper">
+            <a class="cmp-button cmp-textcta__button" href="/play-responsibly">
+                <span class="cmp-button__text">Learn more about odds</span>
+            </a>
+        </div>
+    </div>
+</article>
+
+    
+</div>
+
+        	
+        </div>
+    </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+<div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-217345be0a" class="cmp-experiencefragment cmp-experiencefragment--student-spotlight">
+
+
+    
+    <div id="container-e0e00a71e2" class="cmp-container cmp-container--responsive-grid spacing-t-none spacing-b-none">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="separator separator--white separator--bg-beige aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-separator cmp-separator--wave">
+    
+    <div class="cmp-separator__wave">
+        <svg fill="none" viewBox="0 0 1440 136" preserveAspectRatio="none" focusable="false" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <path d="m1440 18v118h-1440v-76l30-6c78-14 172-10 290 12 96 18 192 22 290 22 96 0 192-8 290-26 36-6 234-48 288-56 84-10 172-8 252 12z" fill="currentColor"/>
+        </svg>
+    </div>
+</div></div>
+<div class="container responsivegrid container--w-full container--p-lg container--bg-split aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    
+    <div id="container-da01bd508a" class="cmp-container cmp-container--simple spacing-t-none spacing-b-none">
+        
+        <div class="cmp-container__items">
+            <div class="title">
+<div id="title-43913271cb" class="cmp-title spacing-t-none spacing-b-none">
+    <hgroup>
+      <h2 class="cmp-title__text">
+        More to Play
+      </h2>
+
+      <p class="mt-2 cmp-title__subtitle">Check out all our exciting games</p>
+    </hgroup>
+
+    
+
+  <ul class="mt-8 -mx-2 md:-mx-4 md:mt-10 cmp-title__actions">
+      <li class="px-2 md:px-4 cmp-title__action">
+        <a class="cmp-title__action-link grower" id="title-43913271cb-cta-e41f434fb1" href="/games/scratch-offs">View all Scratch-Offs</a>
+      </li>
+    
+      <li class="px-2 md:px-4 cmp-title__action">
+        <a class="cmp-title__action-link grower" id="title-43913271cb-cta-975ba614be" href="/where-to-play">Where to play</a>
+      </li>
+    </ul>
+</div>
+
+    
+
+</div>
+<div class="experiencefragment">
+<div id="experiencefragment-92fb6193d9" class="cmp-experiencefragment cmp-experiencefragment--title----component-spacer">
+
+
+    
+    <div id="container-bf42c4b6a8" class="cmp-container cmp-container--responsive-grid spacing-t-none spacing-b-none">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="spacer aem-GridColumn aem-GridColumn--default--12"><div id="spacer-ee0feda333" class="cmp-spacer" data-height="48,lg:64"></div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+<div class="container responsivegrid">
+
+    
+    
+    
+    <div id="container-33075532c3" class="cmp-container cmp-container--simple spacing-t-none spacing-b-none">
+        
+        <div class="cmp-container__items">
+            <div class="carousel panelcontainer carousel--w-full-mobile"><section id="carousel-0e0cae0531" class="cmp-carousel swiper spacing-t-none spacing-b-none" data-cmp-is="carousel" data-cmp-config="{&#34;hasGap&#34;:true,&#34;breakpoints&#34;:[{&#34;screen&#34;:null,&#34;hasCenteredSlides&#34;:false,&#34;slideMaxWidth&#34;:&#34;xxs&#34;,&#34;slidesPerView&#34;:&#34;auto&#34;},{&#34;screen&#34;:&#34;md&#34;,&#34;hasCenteredSlides&#34;:false,&#34;slideMaxWidth&#34;:&#34;xs&#34;,&#34;slidesPerView&#34;:&#34;3&#34;},{&#34;screen&#34;:&#34;lg&#34;,&#34;hasCenteredSlides&#34;:false,&#34;slideMaxWidth&#34;:&#34;xs&#34;,&#34;slidesPerView&#34;:&#34;4&#34;}]}" data-placeholder-text="false">
+    <div class="cmp-carousel__content swiper-wrapper">
+        <div id="carousel-0e0cae0531-item-aaad092dc4" class="cmp-carousel__item cmp-carousel__item--active swiper-slide" data-cmp-hook-carousel="item"><div class="scratchoffteaser"><article id="scratchoffteaser-bc96dd708f" class="cmp-scratchoffteaser w-full spacing-t-none spacing-b-none">
+  <div class="flex flex-col h-full max-w-sm bg-white rounded-lg xs:max-w-xs cmp-scratchoffteaser__inner">
+    
+    <a class="block" href="/games/scratch-offs/view?id=1587" aria-hidden="true" tabindex="-1">
+      <span class="block bg-center bg-cover rounded-t-lg bg-beige-300 ratio ratio-4:3 lazyload" data-bg="/content/dam/flalottery-web/images/games/scratch-offs/quick-$100/fl-1587-quick-100s-teaser.png/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"></span>
+    </a>
+
+    
+    <div class="flex flex-col justify-between flex-grow p-5 pb-6">
+      <hgroup class="mb-8">
+        
+        <p class="block text-xs text-green-500 uppercase">
+          Scratch-Off &bull; #1587
+        </p>
+
+        
+        <h3 id="scratchoffteaser-bc96dd708f-title" class="mt-px">
+          <span class="text-2xl font-bold leading-none text-black uppercase font-condensed">
+            <a href="/games/scratch-offs/view?id=1587" class="inline-block focus-pink" data-cmp-clickable>
+              Quick $100s
+            </a>
+          </span>
+        </h3>
+      </hgroup>
+
+      
+      <dl class="flex items-end mt-auto leading-none list-details">
+        
+        <div class="list-details__item my-0 mr-auto">
+          <dt>
+            <span class="list-details__icon top-0"><span class="fas fa-jackpot"></span></span>
+            <span class="list-details__label">Top Prize</span>
+          </dt>
+          <dd class="text-lg">$50,000</dd>
+        </div>
+
+        
+        <div class="text-lg font-bold font-condensed text-black ml-6">
+          <dt class="sr-only">Price</dt>
+          <dd>$2</dd>
+        </div>
+      </dl>
+    </div>
+  </div>
+</article>
+
+    
+
+</div>
+</div>
+<div id="carousel-0e0cae0531-item-8427534df7" class="cmp-carousel__item swiper-slide" data-cmp-hook-carousel="item"><div class="scratchoffteaser"><article id="scratchoffteaser-2beebab99b" class="cmp-scratchoffteaser w-full spacing-t-none spacing-b-none">
+  <div class="flex flex-col h-full max-w-sm bg-white rounded-lg xs:max-w-xs cmp-scratchoffteaser__inner">
+    
+    <a class="block" href="/games/scratch-offs/view?id=1589" aria-hidden="true" tabindex="-1">
+      <span class="block bg-center bg-cover rounded-t-lg bg-beige-300 ratio ratio-4:3 lazyload" data-bg="/content/dam/flalottery-web/images/games/scratch-offs/$25,-$50,-or-$100/fl-1589-$25-$50-or-$100-teaser.png/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"></span>
+    </a>
+
+    
+    <div class="flex flex-col justify-between flex-grow p-5 pb-6">
+      <hgroup class="mb-8">
+        
+        <p class="block text-xs text-green-500 uppercase">
+          Scratch-Off &bull; #1589
+        </p>
+
+        
+        <h3 id="scratchoffteaser-2beebab99b-title" class="mt-px">
+          <span class="text-2xl font-bold leading-none text-black uppercase font-condensed">
+            <a href="/games/scratch-offs/view?id=1589" class="inline-block focus-pink" data-cmp-clickable>
+              $25, $50, OR $100
+            </a>
+          </span>
+        </h3>
+      </hgroup>
+
+      
+      <dl class="flex items-end mt-auto leading-none list-details">
+        
+        <div class="list-details__item my-0 mr-auto">
+          <dt>
+            <span class="list-details__icon top-0"><span class="fas fa-jackpot"></span></span>
+            <span class="list-details__label">Top Prize</span>
+          </dt>
+          <dd class="text-lg">$100</dd>
+        </div>
+
+        
+        <div class="text-lg font-bold font-condensed text-black ml-6">
+          <dt class="sr-only">Price</dt>
+          <dd>$5</dd>
+        </div>
+      </dl>
+    </div>
+  </div>
+</article>
+
+    
+
+</div>
+</div>
+<div id="carousel-0e0cae0531-item-88b58db239" class="cmp-carousel__item swiper-slide" data-cmp-hook-carousel="item"><div class="scratchoffteaser"><article id="scratchoffteaser-b16990fc98" class="cmp-scratchoffteaser w-full spacing-t-none spacing-b-none">
+  <div class="flex flex-col h-full max-w-sm bg-white rounded-lg xs:max-w-xs cmp-scratchoffteaser__inner">
+    
+    <a class="block" href="/games/scratch-offs/view?id=1588" aria-hidden="true" tabindex="-1">
+      <span class="block bg-center bg-cover rounded-t-lg bg-beige-300 ratio ratio-4:3 lazyload" data-bg="/content/dam/flalottery-web/images/games/scratch-offs/times-lucky/fl-1588-5-times-lucky-teaser.png/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"></span>
+    </a>
+
+    
+    <div class="flex flex-col justify-between flex-grow p-5 pb-6">
+      <hgroup class="mb-8">
+        
+        <p class="block text-xs text-green-500 uppercase">
+          Scratch-Off &bull; #1588
+        </p>
+
+        
+        <h3 id="scratchoffteaser-b16990fc98-title" class="mt-px">
+          <span class="text-2xl font-bold leading-none text-black uppercase font-condensed">
+            <a href="/games/scratch-offs/view?id=1588" class="inline-block focus-pink" data-cmp-clickable>
+              5 Times Lucky
+            </a>
+          </span>
+        </h3>
+      </hgroup>
+
+      
+      <dl class="flex items-end mt-auto leading-none list-details">
+        
+        <div class="list-details__item my-0 mr-auto">
+          <dt>
+            <span class="list-details__icon top-0"><span class="fas fa-jackpot"></span></span>
+            <span class="list-details__label">Top Prize</span>
+          </dt>
+          <dd class="text-lg">$1,000,000</dd>
+        </div>
+
+        
+        <div class="text-lg font-bold font-condensed text-black ml-6">
+          <dt class="sr-only">Price</dt>
+          <dd>$5</dd>
+        </div>
+      </dl>
+    </div>
+  </div>
+</article>
+
+    
+
+</div>
+</div>
+<div id="carousel-0e0cae0531-item-07071d9d83" class="cmp-carousel__item swiper-slide" data-cmp-hook-carousel="item"><div class="scratchoffteaser"><article id="scratchoffteaser-0510364110" class="cmp-scratchoffteaser w-full spacing-t-none spacing-b-none">
+  <div class="flex flex-col h-full max-w-sm bg-white rounded-lg xs:max-w-xs cmp-scratchoffteaser__inner">
+    
+    <a class="block" href="/games/scratch-offs/view?id=1590" aria-hidden="true" tabindex="-1">
+      <span class="block bg-center bg-cover rounded-t-lg bg-beige-300 ratio ratio-4:3 lazyload" data-bg="/content/dam/flalottery-web/images/games/scratch-offs/gold-rush-multiplier/fl-1590-$25000000-gold-rush-multiplier-teaser.png/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"></span>
+    </a>
+
+    
+    <div class="flex flex-col justify-between flex-grow p-5 pb-6">
+      <hgroup class="mb-8">
+        
+        <p class="block text-xs text-green-500 uppercase">
+          Scratch-Off &bull; #1590
+        </p>
+
+        
+        <h3 id="scratchoffteaser-0510364110-title" class="mt-px">
+          <span class="text-2xl font-bold leading-none text-black uppercase font-condensed">
+            <a href="/games/scratch-offs/view?id=1590" class="inline-block focus-pink" data-cmp-clickable>
+              $25,000,000 GOLD RUSH MULTIPLIER
+            </a>
+          </span>
+        </h3>
+      </hgroup>
+
+      
+      <dl class="flex items-end mt-auto leading-none list-details">
+        
+        <div class="list-details__item my-0 mr-auto">
+          <dt>
+            <span class="list-details__icon top-0"><span class="fas fa-jackpot"></span></span>
+            <span class="list-details__label">Top Prize</span>
+          </dt>
+          <dd class="text-lg">$25,000,000</dd>
+        </div>
+
+        
+        <div class="text-lg font-bold font-condensed text-black ml-6">
+          <dt class="sr-only">Price</dt>
+          <dd>$50</dd>
+        </div>
+      </dl>
+    </div>
+  </div>
+</article>
+
+    
+
+</div>
+</div>
+
+    </div>
+
+    <div class="swiper-controls">
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-pagination"></div>
+        <div class="swiper-button-next"></div>
+    </div>
+
+    
+</section></div>
+
+        	
+        </div>
+    </div>
+
+</div>
+
+        	
+        </div>
+    </div>
+
+</div>
+<div class="container responsivegrid container--w-full container--p-lg container--bg-foliage-bottom-corner aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    
+    <div id="container-e3bf199cca" class="cmp-container cmp-container--simple spacing-t-none spacing-b-none">
+        
+        <div class="cmp-container__items">
+            <div class="promocta promocta--media-w-auto promocta--bg-green-dark"><article class="cmp-promocta  spacing-t-none spacing-b-none">
+    <div class="cmp-promocta__inner">
+        
+        <div class="cmp-promocta__media">
+            
+            <div class="cmp-promocta__teaser"><article id="brightfutureteaser-c98cbbe21f" class="cmp-brightfutureteaser person-teaser w-full spacing-t-none spacing-b-none" data-cmp-is="popup">
+  <div class="flex flex-col h-full max-w-sm bg-white border rounded-lg border-beige-50 xs:max-w-xs person-teaser__inner">
+    
+    
+      <span class="block bg-center bg-cover rounded-t-lg bg-beige-300 ratio ratio-4:3 lazyload" data-bg="/content/dam/flalottery-web/images/bright-futures/recipient-images/isabellalozano.png/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"></span>
+    
+
+    
+    <div class="p-5">
+      <hgroup>
+        
+        <p class="block text-xs text-green-500 uppercase">
+          Bright Futures Recipient
+        </p>
+
+        
+        <h2 class="mt-px mb-4">
+          
+            <span class="text-2xl font-bold leading-none text-black uppercase font-condensed">
+              Isabella Lozano
+            </span>
+          
+        </h2>
+      </hgroup>
+
+      
+      <dl class="list-details">
+        
+        <div class="list-details__item">
+          <dt>
+            <span class="list-details__icon">
+              <span class="fas fa-map-marker-alt"></span>
+            </span>
+            <span class="list-details__label">From</span>
+          </dt>
+          <dd>Miami</dd>
+        </div>
+
+        
+        <div class="list-details__item">
+          <dt>
+            <span class="list-details__icon">
+              <span class="fas fa-graduation-cap"></span>
+            </span>
+            <span class="list-details__label">School</span>
+          </dt>
+          <dd>University of Miami</dd>
+        </div>
+      </dl>
+
+      
+      <p class="showcase-info" aria-hidden="true">
+        <span class="showcase-info__name">Isabella</span>
+        <span class="showcase-info__msg">got a Brighter Future</span>
+      </p>
+    </div>
+  </div>
+
+  
+  
+</article>
+
+    
+
+</div>
+
+            
+            
+
+            
+            
+        </div>
+
+        
+        <div class="cmp-promocta__copy text--inverse">
+            
+            <h2 class="cmp-promocta__title">
+                Student Spotlight
+            </h2>
+
+            
+            <div class="cmp-promocta__content">
+                 <p>When you play our games, students across Florida win.</p>
+
+            </div>
+
+            
+            
+    <ul class="cmp-promocta__actions">
+        <li class="cmp-promocta__action">
+            <a class="cmp-promocta__action-link grower" id="promocta-c98cbbe21f-cta-c89a49b6a2" href="/education/supporting-education">
+                Learn how
+            </a>
+        </li>
+    </ul>
+
+
+            
+            
+
+            
+            
+        </div>
+    </div>
+</article>
+
+    
+</div>
+
+        	
+        </div>
+    </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</main>
+<footer class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-77c805dd58" class="cmp-experiencefragment cmp-experiencefragment--footer">
+
+
+    
+    <div id="container-486f64b0ba" class="cmp-container cmp-container--responsive-grid spacing-t-none spacing-b-none">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="container responsivegrid container--spaced container--w-full container--site-footer aem-GridColumn aem-GridColumn--default--12">
+
+    
+    <div id="container-043d387fae" class="cmp-container cmp-container--responsive-grid spacing-t-none spacing-b-none">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 aem-Grid--xxs--12 aem-Grid--xl--12 aem-Grid--md--12 aem-Grid--lg--12 ">
+    
+    <div class="container responsivegrid container--spaced aem-GridColumn--xxs--12 aem-GridColumn--xxs--none aem-GridColumn--default--none aem-GridColumn--xl--4 aem-GridColumn--offset--default--0 aem-GridColumn--lg--6 aem-GridColumn--offset--lg--0 aem-GridColumn--lg--none aem-GridColumn--offset--xl--0 aem-GridColumn aem-GridColumn--offset--xxs--0 aem-GridColumn--offset--md--0 aem-GridColumn--xl--none aem-GridColumn--default--4 aem-GridColumn--md--none aem-GridColumn--md--12">
+
+    
+    
+    
+    <div id="container-01261c412b" class="cmp-container cmp-container--simple spacing-t-none spacing-b-large">
+        
+        <div class="cmp-container__items">
+            <div class="promocta"><article class="cmp-promocta  spacing-t-none spacing-b-none">
+    <div class="cmp-promocta__inner">
+        
+        
+
+        
+        <div class="cmp-promocta__copy text--inverse">
+            
+            <h2 class="cmp-promocta__title">
+                Stay In Touch
+            </h2>
+
+            
+            <div class="cmp-promocta__content">
+                 <p>Get updates on new games, special promotions and more!</p>
+
+            </div>
+
+            
+            
+    
+
+
+            
+            
+
+            
+            
+        </div>
+    </div>
+</article>
+
+    
+</div>
+<div class="socialicons socialicons--inverse"><nav id="socialicons-7d0fb20568" class="cmp-socialicons spacing-t-base spacing-b-large" aria-label="Stay connected">
+  <ul class="flex -mx-3">
+    
+    <li class="px-3">
+      <a class="flex items-center justify-center w-8 h-8 rounded-full" href="https://www.facebook.com/FloridaLottery" target="_blank" rel="noopener">
+        <span class="fab fa-facebook-f" title="Facebook"></span>
+      </a>
+    </li>
+    
+    <li class="px-3">
+      <a class="flex items-center justify-center w-8 h-8 rounded-full" href="https://www.twitter.com/FloridaLottery" target="_blank" rel="noopener">
+        <span class="fab fa-x-twitter" title="X"></span>
+      </a>
+    </li>
+    
+    <li class="px-3">
+      <a class="flex items-center justify-center w-8 h-8 rounded-full" href="https://www.instagram.com/floridalottery" target="_blank" rel="noopener">
+        <span class="fab fa-instagram" title="Instagram"></span>
+      </a>
+    </li>
+    <li class="px-3">
+      <a class="flex items-center justify-center w-8 h-8 rounded-full" href="https://www.linkedin.com/company/floridalottery" rel="noopener">
+        <span class="fab fa-linkedin-in" title="Linkedin"></span>
+      </a>
+    </li>
+    
+    <li class="px-3">
+      <a class="flex items-center justify-center w-8 h-8 rounded-full" href="https://www.youtube.com/floridalottery" target="_blank" rel="noopener">
+        <span class="fab fa-youtube" title="YouTube"></span>
+      </a>
+    </li>
+    
+    <li class="px-3">
+      <a class="flex items-center justify-center w-8 h-8 rounded-full" href="https://secondchance.floridalottery.com/secondchance/registerFull" target="_blank" rel="noopener">
+        <span class="fas fa-envelope" title="Flamingo Followers"></span>
+      </a>
+    </li>
+  </ul>
+</nav>
+</div>
+<div class="image image--max-w-xxxs image--inverse-focus">
+<div data-cmp-is="image" data-cmp-lazy data-cmp-lazythreshold="0" data-cmp-src="/content/experience-fragments/flalottery-web/us/en/site/footer/master/_jcr_content/root/container/container/image.coreimg{.width}.svg/1683903913675/play-responsibly-18.svg" data-asset="/content/dam/flalottery-web/images/brand/play-responsibly-18.svg" data-title="Play Responsibly" id="image-f5ad3ccec2" class="cmp-image spacing-t-none spacing-b-none" itemscope itemtype="http://schema.org/ImageObject">
+    <a class="cmp-image__link" href="/play-responsibly" data-cmp-hook-image="link">
+        <noscript data-cmp-hook-image="noscript">
+            
+            <img src="/content/experience-fragments/flalottery-web/us/en/site/footer/master/_jcr_content/root/container/container/image.coreimg.svg/1683903913675/play-responsibly-18.svg" class="cmp-image__image" itemprop="contentUrl" data-cmp-hook-image="image" alt="Play Responsibly"/>
+            
+        </noscript>
+    </a>
+    
+    
+</div>
+
+    
+</div>
+
+        	
+        </div>
+    </div>
+
+</div>
+<div class="container responsivegrid container--spaced aem-GridColumn--xxs--12 aem-GridColumn--xxs--none aem-GridColumn--default--none aem-GridColumn--xl--8 aem-GridColumn--offset--default--0 aem-GridColumn--lg--6 aem-GridColumn--offset--lg--0 aem-GridColumn--lg--none aem-GridColumn--offset--xl--0 aem-GridColumn aem-GridColumn--offset--xxs--0 aem-GridColumn--default--8 aem-GridColumn--offset--md--0 aem-GridColumn--xl--none aem-GridColumn--md--none aem-GridColumn--md--12">
+
+    
+    <div id="container-cea6c4ee57" class="cmp-container cmp-container--responsive-grid spacing-t-none spacing-b-none">
+        
+
+
+<div class="aem-Grid aem-Grid--8 aem-Grid--default--8 aem-Grid--xxs--12 aem-Grid--xl--8 aem-Grid--md--12 aem-Grid--lg--6 ">
+    
+    <div class="container responsivegrid aem-GridColumn--xxs--none aem-GridColumn--default--none aem-GridColumn--xxs--6 aem-GridColumn--offset--default--0 aem-GridColumn--lg--4 aem-GridColumn--offset--lg--0 aem-GridColumn--lg--none aem-GridColumn aem-GridColumn--offset--xxs--0 aem-GridColumn--offset--md--0 aem-GridColumn--md--6 aem-GridColumn--xl--2 aem-GridColumn--md--none aem-GridColumn--default--2">
+
+    
+    
+    
+    <div id="container-100a84943b" class="cmp-container cmp-container--simple spacing-t-none spacing-b-large">
+        
+        <div class="cmp-container__items">
+            <div class="title">
+<div id="title-05f647ac41" class="cmp-title spacing-t-none spacing-b-none">
+    <hgroup>
+      <h2 class="cmp-title__text">
+        About
+      </h2>
+
+      
+    </hgroup>
+
+    
+
+  
+</div>
+
+    
+
+</div>
+<div class="pagelist list pagelist--inverse">
+  <ul id="pagelist-1c777c44be" class="cmp-pagelist spacing-t-base spacing-b-base">
+    <li class="cmp-pagelist__item">
+    <p>
+      <a class="cmp-pagelist__item-link" href="/about">
+        <span class="cmp-pagelist__item-title">About the Florida Lottery</span>
+        
+      </a>
+    </p>
+    
+</li>
+
+    <li class="cmp-pagelist__item">
+    <p>
+      <a class="cmp-pagelist__item-link" href="/about/careers">
+        <span class="cmp-pagelist__item-title">Careers</span>
+        
+      </a>
+    </p>
+    
+</li>
+
+    <li class="cmp-pagelist__item">
+    <p>
+      <a class="cmp-pagelist__item-link" href="/news">
+        <span class="cmp-pagelist__item-title">News &amp; Media</span>
+        
+      </a>
+    </p>
+    
+</li>
+
+    <li class="cmp-pagelist__item">
+    <p>
+      <a class="cmp-pagelist__item-link" href="/about/divisions">
+        <span class="cmp-pagelist__item-title">Divisions</span>
+        
+      </a>
+    </p>
+    
+</li>
+
+    <li class="cmp-pagelist__item">
+    <p>
+      <a class="cmp-pagelist__item-link" href="/about/integrity">
+        <span class="cmp-pagelist__item-title">Integrity</span>
+        
+      </a>
+    </p>
+    
+</li>
+</ul>
+
+    
+
+</div>
+
+        	
+        </div>
+    </div>
+
+</div>
+<div class="container responsivegrid aem-GridColumn--xxs--none aem-GridColumn--default--none aem-GridColumn--xxs--6 aem-GridColumn--offset--default--0 aem-GridColumn--lg--4 aem-GridColumn--offset--lg--0 aem-GridColumn--lg--none aem-GridColumn aem-GridColumn--offset--xxs--0 aem-GridColumn--offset--md--0 aem-GridColumn--md--6 aem-GridColumn--xl--2 aem-GridColumn--md--none aem-GridColumn--default--2">
+
+    
+    
+    
+    <div id="container-4239108cf5" class="cmp-container cmp-container--simple spacing-t-none spacing-b-large">
+        
+        <div class="cmp-container__items">
+            <div class="title">
+<div id="title-1cfa870f0a" class="cmp-title spacing-t-none spacing-b-none">
+    <hgroup>
+      <h2 class="cmp-title__text">
+        Useful Info
+      </h2>
+
+      
+    </hgroup>
+
+    
+
+  
+</div>
+
+    
+
+</div>
+<div class="pagelist list pagelist--inverse">
+  <ul id="pagelist-fc81621011" class="cmp-pagelist spacing-t-base spacing-b-tight">
+    <li class="cmp-pagelist__item">
+    <p>
+      <a class="cmp-pagelist__item-link" href="/business">
+        <span class="cmp-pagelist__item-title">Do Business with Us</span>
+        
+      </a>
+    </p>
+    
+</li>
+
+    <li class="cmp-pagelist__item">
+    <p>
+      <a class="cmp-pagelist__item-link" href="/site-map">
+        <span class="cmp-pagelist__item-title">Site Map</span>
+        
+      </a>
+    </p>
+    
+</li>
+
+    <li class="cmp-pagelist__item">
+    <p>
+      <a class="cmp-pagelist__item-link" href="/site-requirements">
+        <span class="cmp-pagelist__item-title">Site Requirements</span>
+        
+      </a>
+    </p>
+    
+</li>
+
+    <li class="cmp-pagelist__item">
+    <p>
+      <a class="cmp-pagelist__item-link" href="/accessibility-policy">
+        <span class="cmp-pagelist__item-title">Accessibility Policy</span>
+        
+      </a>
+    </p>
+    
+</li>
+
+    <li class="cmp-pagelist__item">
+    <p>
+      <a class="cmp-pagelist__item-link" href="/content/dam/flalottery-web/files/regulatory-plans/24-25-regulatory-plan.pdf">
+        <span class="cmp-pagelist__item-title">Regulatory Plan</span>
+        
+      </a>
+    </p>
+    
+</li>
+
+    <li class="cmp-pagelist__item">
+    <p>
+      <a class="cmp-pagelist__item-link" href="/help/contact/public-records-requests">
+        <span class="cmp-pagelist__item-title">Public Records Requests</span>
+        
+      </a>
+    </p>
+    
+</li>
+</ul>
+
+    
+
+</div>
+
+        	
+        </div>
+    </div>
+
+</div>
+<div class="container responsivegrid aem-GridColumn--xxs--none aem-GridColumn--default--none aem-GridColumn--xxs--6 aem-GridColumn--offset--default--0 aem-GridColumn--lg--4 aem-GridColumn--offset--lg--0 aem-GridColumn--lg--none aem-GridColumn aem-GridColumn--offset--xxs--0 aem-GridColumn--offset--md--0 aem-GridColumn--md--6 aem-GridColumn--xl--2 aem-GridColumn--md--none aem-GridColumn--default--2">
+
+    
+    
+    
+    <div id="container-cf42b6d1fd" class="cmp-container cmp-container--simple spacing-t-none spacing-b-large">
+        
+        <div class="cmp-container__items">
+            <div class="title">
+<div id="title-eed41baaf1" class="cmp-title spacing-t-none spacing-b-none">
+    <hgroup>
+      <h2 class="cmp-title__text">
+        Help
+      </h2>
+
+      
+    </hgroup>
+
+    
+
+  
+</div>
+
+    
+
+</div>
+<div class="pagelist list pagelist--inverse">
+  <ul id="pagelist-7576102015" class="cmp-pagelist spacing-t-base spacing-b-base">
+    <li class="cmp-pagelist__item">
+    <p>
+      <a class="cmp-pagelist__item-link" href="/help">
+        <span class="cmp-pagelist__item-title">Help Center</span>
+        
+      </a>
+    </p>
+    
+</li>
+
+    <li class="cmp-pagelist__item">
+    <p>
+      <a class="cmp-pagelist__item-link" href="/about/lottery-offices">
+        <span class="cmp-pagelist__item-title">Lottery Offices</span>
+        
+      </a>
+    </p>
+    
+</li>
+
+    <li class="cmp-pagelist__item">
+    <p>
+      <a class="cmp-pagelist__item-link" href="/play-responsibly">
+        <span class="cmp-pagelist__item-title">Play Responsibly</span>
+        
+      </a>
+    </p>
+    
+</li>
+</ul>
+
+    
+
+</div>
+
+        	
+        </div>
+    </div>
+
+</div>
+<div class="container responsivegrid aem-GridColumn--xxs--none aem-GridColumn--default--none aem-GridColumn--xxs--6 aem-GridColumn--offset--default--0 aem-GridColumn--lg--4 aem-GridColumn--offset--lg--0 aem-GridColumn--lg--none aem-GridColumn aem-GridColumn--offset--xxs--0 aem-GridColumn--offset--md--0 aem-GridColumn--md--6 aem-GridColumn--xl--2 aem-GridColumn--md--none aem-GridColumn--default--2">
+
+    
+    
+    
+    <div id="container-814cf4877f" class="cmp-container cmp-container--simple spacing-t-none spacing-b-large">
+        
+        <div class="cmp-container__items">
+            <div class="title title--text-hidden">
+<div id="title-d948ed7ec1" class="cmp-title spacing-t-none spacing-b-none">
+    <hgroup>
+      <h2 class="cmp-title__text">
+        Apps
+      </h2>
+
+      
+    </hgroup>
+
+    
+
+  
+</div>
+
+    
+
+</div>
+<div class="promocta"><article class="cmp-promocta  spacing-t-none spacing-b-tight">
+    <div class="cmp-promocta__inner">
+        
+        
+
+        
+        <div class="cmp-promocta__copy text--inverse">
+            
+            
+
+            
+            
+
+            
+            
+
+            
+            
+
+            
+            
+    <ul class="flex flex-wrap mt-6 -mx-2 lg:mt-8 cmp-promocta__app-buttons">
+        <li class="px-2 py-1">
+            <a class="inline-block" href="https://apps.apple.com/us/app/flalottery/id476160599?ls=1" rel="noopener">
+                <img class="w-full h-10 lg:h-12 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/etc.clientlibs/flalottery-web/clientlibs/clientlib-site/resources/img/app-buttons/apple.svg" alt="Download on the App Store" width="300" height="100"/>
+            </a>
+        </li>
+        <li class="px-2 py-1">
+            <a class="inline-block" href="https://play.google.com/store/apps/details?id=com.flalottery.FLALOTTERY" rel="noopener">
+                <img class="w-full h-10 lg:h-12 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/etc.clientlibs/flalottery-web/clientlibs/clientlib-site/resources/img/app-buttons/google.svg" alt="Get it on Google Play" width="300" height="88"/>
+            </a>
+        </li>
+    </ul>
+
+        </div>
+    </div>
+</article>
+
+    
+</div>
+
+        	
+        </div>
+    </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+<div class="separator separator--white aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-separator cmp-separator--line">
+    <hr class="cmp-separator__horizontal-rule" aria-hidden="true"/>
+    
+</div></div>
+<div class="text text--inverse aem-GridColumn aem-GridColumn--default--12">
+<div id="text-e52cf6eda4" class="cmp-text prose prose-xs md:prose-sm spacing-t-large spacing-b-none">
+    <p style="	text-align: center;
+">© 2025 Florida Lottery. All Rights Reserved. Must be 18 or older to play.</p>
+<p style="	text-align: center;
+"><a href="/privacy-policy"><strong>Privacy Policy</strong></a> | <a href="/terms-of-use"><strong>Terms of Use</strong></a></p>
+
+</div>
+
+    
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</footer>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+
+            
+    
+
+    
+
+<script>document.documentElement.style.setProperty("--scrollbar-width",window.innerWidth-document.documentElement.clientWidth+"px")</script>
+
+
+    <script defer src="/etc.clientlibs/flalottery-web/clientlibs/clientlib-base.lc-09200aedc0d8001732c37787de559deb-lc.min.js"></script>
+
+
+
+    
+
+    
+
+
+    
+
+    
+
+    
+
+            
+
+        
+    </body>
+</html>
+
+made soup

@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Florida Lotto Winning Numbers</title>
+</head>
+<body>
+    <h1>Florida Lotto Winning Numbers</h1>
+
+    <form action="/get_numbers" method="POST">
+        <label for="position">Enter the number position (1-6):</label>
+        <input type="number" id="position" name="position" min="1" max="6" required>
+        <button type="submit">Get Numbers</button>
+    </form>
+
+    {% if numbers %}
+        <h2>Winning Numbers for Position {{ position }}:</h2>
+        <ul>
+            {% for number in numbers %}
+                <li>{{ number }}</li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+</body>
+</html>
