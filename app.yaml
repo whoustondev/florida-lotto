@@ -1,0 +1,2 @@
+runtime: python12
+entrypoint: gunicorn -b :$PORT app:app

@@ -1,27 +1,135 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Florida Lotto Winning Numbers</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f7f6;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #005d6d;
+            color: #fff;
+            text-align: center;
+            padding: 1.5em 0;
+        }
+        main {
+            max-width: 600px;
+            margin: 2em auto;
+            padding: 2em;
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        h1 {
+            font-size: 2em;
+            margin-bottom: 0.5em;
+        }
+        label {
+            font-size: 1.2em;
+            margin-bottom: 0.5em;
+            display: block;
+        }
+        input[type="number"] {
+            padding: 0.5em;
+            font-size: 1.1em;
+            width: 100%;
+            margin-bottom: 1em;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+        button {
+            background-color: #009688;
+            color: white;
+            font-size: 1.2em;
+            padding: 0.8em 1.5em;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            width: 100%;
+        }
+        button:hover {
+            background-color: #00796b;
+        }
+        #result {
+            margin-top: 2em;
+        }
+        #result h2 {
+            color: #005d6d;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background-color: #f0f0f0;
+            padding: 0.8em;
+            margin: 0.5em 0;
+            border-radius: 5px;
+            font-size: 1.1em;
+        }
+        .error {
+            color: red;
+            font-size: 1.2em;
+        }
+    </style>
 </head>
 <body>
+
+<header>
     <h1>Florida Lotto Winning Numbers</h1>
+</header>
 
-    <form action="/get_numbers" method="POST">
-        <label for="position">Enter the number position (1-6):</label>
-        <input type="number" id="position" name="position" min="1" max="6" required>
-        <button type="submit">Get Numbers</button>
-    </form>
+<main>
+    <label for="position">Enter the number position (1-6):</label>
+    <input type="number" id="position" name="position" min="1" max="6" required>
+    <button onclick="getWinningNumbers()">Get Numbers</button>
 
-    {% if numbers %}
-        <h2>Winning Numbers for Position {{ position }}:</h2>
-        <ul>
-            {% for number in numbers %}
-                <li>{{ number }}</li>
-            {% endfor %}
-        </ul>
-    {% endif %}
+    <div id="result"></div>
+</main>
+
+<script>
+    function getWinningNumbers() {
+        const position = document.getElementById('position').value;
+        const resultContainer = document.getElementById('result');
+
+        if (!position || position < 1 || position > 6) {
+            resultContainer.innerHTML = `<p class="error">Please enter a valid position between 1 and 6.</p>`;
+            return;
+        }
+
+        // Clear previous results
+        resultContainer.innerHTML = '';
+
+        // Make the GET request to Flask API
+        fetch(`/get_numbers?position=${position}`)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                return response.json();
+            })
+            .then(data => {
+                if (data.numbers && data.numbers.length > 0) {
+                    resultContainer.innerHTML = `<h2>Winning Numbers for Position ${position}:</h2><ul>`;
+                    data.numbers.forEach(number => {
+                        resultContainer.innerHTML += `<li>${number}</li>`;
+                    });
+                    resultContainer.innerHTML += `</ul>`;
+                } else {
+                    resultContainer.innerHTML = `<p class="error">No winning numbers found for position ${position}.</p>`;
+                }
+            })
+            .catch(error => {
+                resultContainer.innerHTML = `<p class="error">There was an error fetching the numbers: ${error.message}</p>`;
+            });
+    }
+</script>
+
 </body>
 </html>

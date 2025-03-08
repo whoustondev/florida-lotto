@@ -5,11 +5,11 @@ import re
 
 app = Flask(__name__)
 
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, jsonify
 import pdfplumber
 import re
-import re
-import pandas as pd
+
+
 
 
 
@@ -37,8 +37,8 @@ def extract_numbers_from_pdf():
 
             matches.append(re.findall(pattern, text))
             
-    print(matches)
-
+    # print(matches)
+    print("Found {0} matches".format(str(len(matches))))
     return matches
 
 # Global variable to store the extracted numbers
@@ -48,10 +48,10 @@ winning_numbers = extract_numbers_from_pdf()
 def index():
     return render_template('index.html')
 
-@app.route('/get_numbers', methods=['POST'])
+@app.route('/get_numbers', methods=['GET'])
 def get_numbers():
     # Get the number index from the form
-    position = int(request.form.get('position')) - 1  # Convert to zero-based index
+    position = int(request.args.get('position')) - 1  # Convert to zero-based index
     # Extract the corresponding number from all datasets
     if position < 0 or position > 5:
         return "Invalid number, please select a number between 1 and 6."
@@ -59,7 +59,9 @@ def get_numbers():
     for page in winning_numbers:
         for number in page:
             selected_numbers.append(number[1+position])
-    return render_template('index.html', numbers=selected_numbers, position=position + 1)
+    #return render_template('index.html', numbers=selected_numbers, position=position + 1)
+    return jsonify({'numbers': selected_numbers})
+    #return jsonify({"message": "You entered position", "position": position})
 
 if __name__ == '__main__':
     app.run(debug=True)
