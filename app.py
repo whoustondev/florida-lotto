@@ -22,18 +22,13 @@ import re
 app = Flask(__name__)
 # Global variable to store the extracted numbers
 winners = None
-# logging.basicConfig(stream=sys.stdout, level=logging.DEBUG, 
-#                     format='%(asctime)s - %(levelname)s - %(message)s')
+
 logger = logging.getLogger(__name__)
 
 # Define the URL of the PDF to be downloaded
 url = "https://files.floridalottery.com/exptkt/l6.pdf?_gl=1*1kcikff*_ga*MTczOTQ0NDAxMC4xNzQwODAwOTk0*_ga_3E9WN4YVMF*MTc0MTUyOTExNC40LjEuMTc0MTUyOTEzMy40MS4wLjA."
 save_path = "fla_lotto_results.pdf"
-# handler = logging.StreamHandler(stream=sys.stdout)
-# handler.setFormatter(logging.Formatter('flask [%(levelname)s] %(message)s'))
-# logger.addHandler(handler)
 
-# app.logger.addHandler(handler)
 # PDF URL & Save Path
 download_path = os.getcwd() # Adjust for your OS
 
@@ -100,8 +95,6 @@ def extract_numbers_from_pdf():
     # Regular expression to match the date and numbers
     pattern = r'(\d{2}/\d{2}/\d{2})\s(\d+)-\s(\d+)-\s(\d+)-\s(\d+)-\s(\d+)-\s(\d+)\s*(LOTTO(?: DP\s*)?$|LOTTO DP|LOTTO\s*)'
     # Find all matches in the text
-    # Create a list of column names
-    columns = ['Date', 'Number 1', 'Number 2', 'Number 3', 'Number 4', 'Number 5', 'Number 6', 'Play Type']
     matches = []
     count = 0
     # Open and extract text from the PDF
@@ -113,7 +106,6 @@ def extract_numbers_from_pdf():
     logger.info("Found {0} pages of data".format(str(len(pdf.pages))))
     logger.info("Found {0} matches".format(str(count)))
     return matches
-
 
 
 @app.route('/')
@@ -144,7 +136,6 @@ def get_numbers():
     for page in winners:
         for number in page:
             selected_numbers.append(number[1+position])
-    #return render_template('index.html', numbers=selected_numbers, position=position + 1)
     return jsonify({'numbers': selected_numbers})
 
 
@@ -154,17 +145,13 @@ def get_winners():
     for page in winners:
         for number in page:
             selected_numbers.append(number)
-    #return render_template('index.html', numbers=selected_numbers, position=position + 1)
     return jsonify({'numbers': selected_numbers})
-    #return jsonify({"message": "You entered position", "position": position})
-
 
 
 def convert_to_datetime(date_str):
     return datetime.datetime.strptime(date_str, "%m/%d/%y")
 
 
-    
 if __name__ != '__main__':
     gunicorn_logger = logging.getLogger('gunicorn.error')
     app.logger.handlers = gunicorn_logger.handlers
