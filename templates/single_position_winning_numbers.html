@@ -1,0 +1,101 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lotto Number Fetcher</title>
+    
+    <!-- Link to Bootstrap CSS (from CDN) -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Link to Google Fonts (Roboto) -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    
+    <!-- Optional custom styles -->
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+        }
+        #result {
+            margin-top: 20px;
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .text-success {
+            color: #28a745;
+        }
+        .text-danger {
+            color: #dc3545;
+        }
+    </style>
+</head>
+<body class="bg-light">
+
+    <!-- Banner Section -->
+    <header class="bg-primary text-white text-center py-4">
+        <h1 class="display-4">Lotto Number Fetcher</h1>
+    </header>
+
+    <!-- Main Content Container -->
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <!-- Form Section -->
+                <div class="card shadow-sm">
+                    <div class="card-body">
+                        <form id="lottoForm">
+                            <div class="form-group">
+                                <label for="position">Enter the number position (1-6):</label>
+                                <input type="number" id="position" name="position" class="form-control" min="1" max="6" required>
+                            </div>
+                            <button type="submit" class="btn btn-primary btn-block">Get Numbers</button>
+                        </form>
+                    </div>
+                </div>
+
+                <!-- Result Section -->
+                <div id="result"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS and Popper.js -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.0/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const form = document.getElementById("lottoForm");
+
+            if (form) {
+                form.addEventListener("submit", function (event) {
+                    event.preventDefault();
+
+                    const position = parseInt(document.getElementById("position").value);
+
+                    fetch(`/get_numbers?position=${position}`)
+                        .then(response => response.json())
+                        .then(data => {
+                            const numbers = data.numbers; // Assuming the response has an array of numbers
+
+                            const allNumbers = numbers.join(", ");
+
+                            document.getElementById("result").innerHTML = 
+                                `<h3 class="text-success">All Winning Numbers: ${allNumbers}</h3>`;
+                        })
+                        .catch(error => {
+                            console.error("Error fetching data:", error);
+                            document.getElementById("result").innerHTML = 
+                                `<h3 class="text-danger">Error fetching numbers. Please try again later.</h3>`;
+                        });
+                });
+            } else {
+                console.error("Form with ID 'lottoForm' not found!");
+            }
+        });
+    </script>
+
+</body>
+</html>
