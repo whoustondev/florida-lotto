@@ -1,112 +1,119 @@
-
-
-import pdfplumber
-import re
-import sys
 import os
+import re
+import time
 import datetime
 import logging
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.chrome.options import Options
-import time
-
 import threading
-import os
-os.environ['FLASK_ENV'] = 'development'
-
-from flask import Flask, render_template, request, jsonify
+import requests
+import subprocess
 import pdfplumber
-import re
+from flask import Flask, render_template, request, jsonify
+from threading import Lock
+import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.ssl_ import create_urllib3_context
 
+# Flask setup
 app = Flask(__name__)
-# Global variable to store the extracted numbers
+
+# Logging setup
+logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
+app.logger = logging.getLogger(__name__)
+
+# PDF source
+URL = "https://files.floridalottery.com/exptkt/l6.pdf"
+SAVE_PATH = "fla_lotto_results.pdf"
+DOWNLOAD_DIR = os.getcwd()
+
+# Global variables
 winners = None
+winners_lock = Lock()
 
-logger = logging.getLogger(__name__)
+# Regex to extract dates + numbers
+PATTERN = re.compile(
+    r'(\d{2}/\d{2}/\d{2})\s+(\d+)-\s*(\d+)-\s*(\d+)-\s*(\d+)-\s*(\d+)-\s*(\d+)\s*(LOTTO(?: DP)?|LOTTO)?'
+)
 
-# Define the URL of the PDF to be downloaded
-url = "https://files.floridalottery.com/exptkt/l6.pdf?_gl=1*1kcikff*_ga*MTczOTQ0NDAxMC4xNzQwODAwOTk0*_ga_3E9WN4YVMF*MTc0MTUyOTExNC40LjEuMTc0MTUyOTEzMy40MS4wLjA."
-save_path = "fla_lotto_results.pdf"
 
-# PDF URL & Save Path
-download_path = os.getcwd() # Adjust for your OS
-
-def rename_file(old_name, new_name):
-    try:
-        os.rename(old_name, new_name)
-        logger.info(f"File renamed from {old_name} to {new_name}")
-    except FileNotFoundError:
-        logger.info("Error: File not found.")
-    except PermissionError:
-        logger.info("Error: Permission denied.")
-    except Exception as e:
-        logger.info(f"Error renaming file: {e}")
-    except Exception as e:
-            logger.info(f"Error downloading PDF: {str(e)}")
+class TLSAdapter(HTTPAdapter):
+    def init_poolmanager(self, *args, **kwargs):
+        ctx = create_urllib3_context()
+        ctx.set_ciphers('DEFAULT@SECLEVEL=1')  # Lower security level if server has weak ciphers
+        kwargs['ssl_context'] = ctx
+        return super().init_poolmanager(*args, **kwargs)
 
 def download_pdf(refresh=False):
-    # Set up Chrome options for headless downloading
-    chrome_options = Options()
-    chrome_options.add_argument("--headless=new")  # Headless mode (Chrome 109+)
-    chrome_options.add_argument("--no-sandbox")
-    chrome_options.add_argument("--disable-dev-shm-usage")
-    
-    # Ensure Chrome auto-downloads PDFs instead of opening them
-    prefs = {
-        "download.default_directory": download_path,
-        "plugins.always_open_pdf_externally": True,  # Force download instead of opening
-        "download.prompt_for_download": False,
-        "download.directory_upgrade": True
-    }
-    chrome_options.add_experimental_option("prefs", prefs)
+    if refresh and os.path.exists(SAVE_PATH):
+        os.rename(SAVE_PATH, SAVE_PATH.replace(".pdf", "_backup.pdf"))
+        app.logger.info("Existing PDF backed up.")
 
-    # Initialize WebDriver
-    driver = webdriver.Chrome(service=Service('/usr/local/bin/chromedriver'), options=chrome_options)
+    app.logger.info("Downloading PDF via curl...")
+
+    curl_command = [
+        "curl",
+        "-L",  # Follow redirects
+        "-o", SAVE_PATH,
+        "-H", "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+              "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
+        "-H", "Referer: https://www.floridalottery.com/",
+        URL
+    ]
 
     try:
-        if refresh:
-            # so we can download l6 and rename it 
-            rename_file("fla_lotto_results.pdf", "fla_lotto_results_backup.pdf")
-        logger.info("Opening URL...")
-        driver.get(url)
+        result = subprocess.run(curl_command, capture_output=True, text=True, check=True)
+        app.logger.info("PDF downloaded successfully via curl.")
+    except subprocess.CalledProcessError as e:
+        app.logger.error(f"Failed to download PDF via curl: {e.stderr}")
 
-        # Allow time for the download to complete
-        time.sleep(10)
+    if refresh:
+        backup = SAVE_PATH.replace(".pdf", "_backup.pdf")
+        if os.path.exists(backup):
+            os.remove(backup)
+            app.logger.info("Backup file deleted.")
 
-        logger.info(f"PDF should be downloaded in: {download_path}")
+# ===== UTILS =====
 
-        rename_file("l6.pdf", "fla_lotto_results.pdf")
+# def download_pdf(refresh=False):
+#     """Download the lotto PDF from URL."""
+#     try:
+#         if refresh and os.path.exists(SAVE_PATH):
+#             os.rename(SAVE_PATH, SAVE_PATH.replace(".pdf", "_backup.pdf"))
+#             app.logger.info("Existing PDF backed up.")
 
-        if os.path.exists("fla_lotto_results_backup.pdf"):
-            os.remove("fla_lotto_results_backup.pdf")
-            logger.info("File deleted successfully")
-        else:
-            # This should never happen
-            logger.info("File not found")
+#         app.logger.info("Downloading PDF...")
+#         r = requests.get(URL)
+#         r.raise_for_status()
+#         with open(SAVE_PATH, 'wb') as f:
+#             f.write(r.content)
+#         app.logger.info("PDF downloaded successfully.")
 
-    finally:
-        driver.quit()
+#         if refresh:
+#             backup = SAVE_PATH.replace(".pdf", "_backup.pdf")
+#             if os.path.exists(backup):
+#                 os.remove(backup)
+#                 app.logger.info("Backup file deleted.")
 
+#     except Exception as e:
+#         app.logger.error(f"Error downloading PDF: {e}")
 
-# Function to extract and process the PDF data
 def extract_numbers_from_pdf():
-    numbers_data = []  # Will store lists of numbers
-    # Regular expression to match the date and numbers
-    pattern = r'(\d{2}/\d{2}/\d{2})\s(\d+)-\s(\d+)-\s(\d+)-\s(\d+)-\s(\d+)-\s(\d+)\s*(LOTTO(?: DP\s*)?$|LOTTO DP|LOTTO\s*)'
-    # Find all matches in the text
+    """Extract numbers from PDF and return them as a nested list."""
     matches = []
     count = 0
-    # Open and extract text from the PDF
-    with pdfplumber.open('fla_lotto_results.pdf') as pdf:
+    with pdfplumber.open(SAVE_PATH) as pdf:
         for page in pdf.pages:
             text = page.extract_text()
-            matches.append(re.findall(pattern, text))
-            count = count + len(matches)
-    logger.info("Found {0} pages of data".format(str(len(pdf.pages))))
-    logger.info("Found {0} matches".format(str(count)))
+            page_matches = PATTERN.findall(text)
+            matches.append(page_matches)
+            count += len(page_matches)
+
+    app.logger.info(f"Extracted {count} total matches from {len(matches)} pages.")
     return matches
 
+def convert_to_datetime(date_str):
+    return datetime.datetime.strptime(date_str, "%m/%d/%y")
+
+# ===== ROUTES =====
 
 @app.route('/')
 def index():
@@ -124,66 +131,64 @@ def single_position_winning_numbers():
 def winning_numbers():
     return render_template('winning_numbers.html')
 
-
 @app.route('/get_numbers', methods=['GET'])
 def get_numbers():
-    # Get the number index from the form
-    position = int(request.args.get('position')) - 1  # Convert to zero-based index
-    # Extract the corresponding number from all datasets
+    position = int(request.args.get('position', 0)) - 1
     if position < 0 or position > 5:
         return "Invalid number, please select a number between 1 and 6."
     selected_numbers = []
-    for page in winners:
-        for number in page:
-            selected_numbers.append(number[1+position])
+    with winners_lock:
+        for page in winners:
+            for number in page:
+                selected_numbers.append(number[1 + position])
     return jsonify({'numbers': selected_numbers})
-
 
 @app.route('/get_winners', methods=['GET'])
 def get_winners():
-    selected_numbers = []
-    for page in winners:
-        for number in page:
-            selected_numbers.append(number)
+    refresh_flag = request.args.get('refresh', '0') == '1'
+
+    global winners
+    with winners_lock:
+        if refresh_flag:
+            app.logger.info("Manual refresh requested via URL param.")
+            download_pdf(refresh=True)
+            winners = extract_numbers_from_pdf()
+
+        selected_numbers = [number for page in winners for number in page]
     return jsonify({'numbers': selected_numbers})
 
+# ===== BACKGROUND REFRESH THREAD =====
 
-def convert_to_datetime(date_str):
-    return datetime.datetime.strptime(date_str, "%m/%d/%y")
+def refresh_if_needed():
+    global winners
+    while True:
+        try:
+            with winners_lock:
+                last_draw_date = convert_to_datetime(winners[0][0][0])
+            days_since = (datetime.datetime.now() - last_draw_date).days
+            app.logger.info(f"It has been {days_since} days since last lottery draw.")
+            if days_since >= 3:
+                app.logger.info("Refreshing lotto data automatically...")
+                with winners_lock:
+                    download_pdf(refresh=True)
+                    winners = extract_numbers_from_pdf()
+        except Exception as e:
+            app.logger.error(f"Error in refresh thread: {e}")
+        time.sleep(3600)
 
+# ===== APP STARTUP =====
 
-if __name__ != '__main__':
-    gunicorn_logger = logging.getLogger('gunicorn.error')
-    app.logger.handlers = gunicorn_logger.handlers
-    app.logger.setLevel("DEBUG")
-    app.logger.critical("This is a CRITICAL message in the gunicorn logger")
-    if os.path.exists(save_path):
-        logger.info("File exists")
-    else:
-        logger.info("File not found. Downloading now...")
+def init_app():
+    global winners
+    if not os.path.exists(SAVE_PATH):
+        app.logger.info("No local PDF found, downloading now...")
         download_pdf()
-    app.logger.info("Extracting winners")
     winners = extract_numbers_from_pdf()
-    def refresh_if_we_have_to():
-        global winners
-        app.logger.debug("Inside refresh func")
-        # TODO: We can be more efficient here, but now we have bigger fish
-        while True:
-            logger.info("Refresh checker is running...")
-            days_since = (datetime.datetime.now() - convert_to_datetime(winners[0][0][0])).days
-            logger.info("It has been {0} days since last lottery draw".format(days_since))
-            if days_since >=3:
-                logger.info("Refreshing lotto data")
-                # do refresh
-                download_pdf(refresh=True)
-                winners = extract_numbers_from_pdf()
-            time.sleep(3600)
+    threading.Thread(target=refresh_if_needed, daemon=True).start()
+    app.logger.info("Background refresh thread started.")
 
-    # Create and start the thread
-    
-    thread = threading.Thread(target=refresh_if_we_have_to, daemon=True)  
-    thread.start()
-    app.logger.critical("Started Thread, now lets run the app")
-    # app.run(debug=True, use_reloader=False)  # use_reloader=False to avoid starting multiple threads
-    
-
+if __name__ == '__main__':
+    init_app()
+    app.run(debug=True, use_reloader=False)
+else:
+    init_app()

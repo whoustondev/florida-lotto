@@ -1,101 +1,106 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lotto Number Fetcher</title>
-    
-    <!-- Link to Bootstrap CSS (from CDN) -->
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Florida Lotto - Single Position Winning Numbers</title>
 
-    <!-- Link to Google Fonts (Roboto) -->
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-    
-    <!-- Optional custom styles -->
-    <style>
-        body {
-            font-family: 'Roboto', sans-serif;
-        }
-        #result {
-            margin-top: 20px;
-            font-size: 18px;
-            font-weight: bold;
-        }
-        .text-success {
-            color: #28a745;
-        }
-        .text-danger {
-            color: #dc3545;
-        }
-    </style>
+  <!-- Bootstrap CSS (v5.3) -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
 </head>
 <body class="bg-light">
 
-    <!-- Banner Section -->
-    <header class="bg-primary text-white text-center py-4">
-        <h1 class="display-4">Lotto Number Fetcher</h1>
-    </header>
-
-    <!-- Main Content Container -->
-    <div class="container mt-5">
-        <div class="row justify-content-center">
-            <div class="col-md-6">
-                <!-- Form Section -->
-                <div class="card shadow-sm">
-                    <div class="card-body">
-                        <form id="lottoForm">
-                            <div class="form-group">
-                                <label for="position">Enter the number position (1-6):</label>
-                                <input type="number" id="position" name="position" class="form-control" min="1" max="6" required>
-                            </div>
-                            <button type="submit" class="btn btn-primary btn-block">Get Numbers</button>
-                        </form>
-                    </div>
-                </div>
-
-                <!-- Result Section -->
-                <div id="result"></div>
-            </div>
-        </div>
+  <!-- Navbar like winning numbers page -->
+  <nav class="navbar navbar-dark bg-success">
+    <div class="container">
+      <a class="navbar-brand" href="/">Florida Lotto</a>
+      <a href="/" class="btn btn-outline-light btn-sm">Back to Home</a>
     </div>
+  </nav>
 
-    <!-- Bootstrap JS and Popper.js -->
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.0/dist/umd/popper.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <div class="container mt-4">
+    <h1 class="text-success mb-4">Single Position Winning Numbers</h1>
 
-    <script>
-        document.addEventListener("DOMContentLoaded", function () {
-            const form = document.getElementById("lottoForm");
+    <form id="lottoForm" class="mb-4">
+      <div class="mb-3">
+        <label for="position" class="form-label">Enter the number position (1-6):</label>
+        <input
+          type="number"
+          id="position"
+          name="position"
+          class="form-control"
+          min="1"
+          max="6"
+          required
+          placeholder="1 to 6"
+        />
+      </div>
+      <button type="submit" class="btn btn-primary">Get Numbers</button>
+    </form>
 
-            if (form) {
-                form.addEventListener("submit", function (event) {
-                    event.preventDefault();
+    <div id="result"></div>
+  </div>
 
-                    const position = parseInt(document.getElementById("position").value);
+  <!-- Bootstrap JS Bundle (includes Popper) -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
-                    fetch(`/get_numbers?position=${position}`)
-                        .then(response => response.json())
-                        .then(data => {
-                            const numbers = data.numbers; // Assuming the response has an array of numbers
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const form = document.getElementById("lottoForm");
+      const resultDiv = document.getElementById("result");
 
-                            const allNumbers = numbers.join(", ");
+      form.addEventListener("submit", (e) => {
+        e.preventDefault();
 
-                            document.getElementById("result").innerHTML = 
-                                `<h3 class="text-success">All Winning Numbers: ${allNumbers}</h3>`;
-                        })
-                        .catch(error => {
-                            console.error("Error fetching data:", error);
-                            document.getElementById("result").innerHTML = 
-                                `<h3 class="text-danger">Error fetching numbers. Please try again later.</h3>`;
-                        });
-                });
-            } else {
-                console.error("Form with ID 'lottoForm' not found!");
+        const position = parseInt(document.getElementById("position").value);
+        if (position < 1 || position > 6) {
+          resultDiv.innerHTML =
+            `<div class="alert alert-danger" role="alert">Please enter a valid position between 1 and 6.</div>`;
+          return;
+        }
+
+        fetch(`/get_numbers?position=${position}`)
+          .then((res) => res.json())
+          .then((data) => {
+            const numbers = data.numbers;
+            if (!numbers || numbers.length === 0) {
+              resultDiv.innerHTML = `<div class="alert alert-warning">No numbers found for that position.</div>`;
+              return;
             }
-        });
-    </script>
+
+            // Build table similar to winning numbers page style
+            let tableHtml = `
+              <table class="table table-bordered table-striped">
+                <thead>
+                  <tr>
+                    <th># Draw</th>
+                    <th>Number at Position ${position}</th>
+                  </tr>
+                </thead>
+                <tbody>
+            `;
+
+            numbers.forEach((num, idx) => {
+              tableHtml += `
+                <tr>
+                  <td>${idx + 1}</td>
+                  <td>${num}</td>
+                </tr>
+              `;
+            });
+
+            tableHtml += `</tbody></table>`;
+
+            resultDiv.innerHTML = tableHtml;
+          })
+          .catch((err) => {
+            console.error("Fetch error:", err);
+            resultDiv.innerHTML =
+              `<div class="alert alert-danger" role="alert">Error fetching numbers. Please try again later.</div>`;
+          });
+      });
+    });
+  </script>
 
 </body>
 </html>
